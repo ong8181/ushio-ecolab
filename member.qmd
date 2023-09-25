@@ -1,0 +1,39 @@
+---
+title: "Members"
+---
+
+### Current members
+<br>
+
+#### Suixian HUANG (MPhil)
+- Bachelor (2023, Sun Yat-sen University, China)
+- **Contact**:
+- **Research theme**: Algae eDNA x Statistics
+- **Research interests**:
+
+
+#### Robinson OSERO (MPhil)
+
+- Master (2023, Nairobi University, Kenya)
+- **Contact**:
+- **Research theme**:
+- **Research interests**:
+
+
+#### Masayuki USHIO (Principal Investigator)
+<img src="img/img_mu2022.png" align="left" style="width:15%">
+<br clear="left">
+
+- Ph.D. (Science) (2010, Kyoto University)
+- **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
+- **Contact**: ushio (at) ust.hk
+- **Teaching**:
+  - 2023/24 Fall: OCES3601, OCES1001 (omnibus)
+  - 2023/24 Spring: Data Visualization (DASC3240), Fisheries and Aquaculture (OCES4103)
+- [Personal website](){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){target="_blank"}
+
+<br>
+<!--
+# Past members
+- Marin KOMOJIRI (2022.4-8, Research Assistant)
+-->

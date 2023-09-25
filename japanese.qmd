@@ -1,0 +1,34 @@
+---
+title: "Japanese (日本語)"
+---
+
+<br>
+
+### 潮 雅之 (香港科技大学・海洋学科)
+
+2022年9月より香港科技大学の海洋学科で研究室を運営しています。個人ページは[こちら](https://ong8181.github.io/index_jp.html).
+
+- **略歴**:  
+1981年愛媛県生まれ、理学博士 (2010年、京都大学)  
+2005年にマレーシアのボルネオ島キナバル山の熱帯林で生態学研究を始め、2010年に学位を取得。その後、土壌微生物群集と生態系機能の研究などを行い、2014年頃から時系列解析と環境DNA分析を用いて生態系動態のモニタリング・動態予測の研究を始める。現在は主に海洋生態系に注目して環境DNAとデータ解析を駆使した研究を行っています。
+ 
+- **研究キーワード**:  
+環境 DNA、生態系動態、時系列データ解析、魚類群集、微生物群集、物質循環、メタゲノム、Reservoir Computing  
+- **問い合わせ**:  
+大学院生・研究員の受け入れ・その他問い合わせは ushio (at) ust.hk までお願いします。<br><br> 現在、海洋とその周辺環境を対象として、<font color = "royalblue">**環境DNA分析**</font>、<font color = "royalblue">**生態学データの統計解析**</font>、<font color = "royalblue">**環境DNA分析と統計モデリングの統合**</font> などの研究テーマが走っています。「環境DNAに詳しくないが統計生態に関心がある」、または、「統計に詳しくはないが環境DNA分析の新規手法開発に関心がある」、などどちらかのテーマだけでも研究可能です。<br><br>
+日本から大学院生としてラボに参加する場合は、英語のスコアが基準を満たしている必要がありますので、ご注意ください ([こちら](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/admission-requirements){target="_blank"}を御覧ください)。
+<br>
+<br>
+
+### 代表的な科学論文
+
+- **Ushio M**\*, Saito H, Tojo M, Nagano AJ (2023) An ecological network approach for detecting and validating influential organisms for rice growth. [_eLife_ 12:RP87202](https://doi.org/10.7554/eLife.87202)
+- **Ushio M**\*, Sado T, Fukuchi T, Sasano S, Masuda R, Osada Y, Miya M\* (2023) Temperature sensitivity of the interspecific interaction strength of coastal marine fish communities. [_eLife_ 12:RP85795](https://doi.org/10.7554/eLife.85795.1)
+-  **Ushio M**\*, Watanabe K, Fukuda Y, Tokudome Y, Nakajima K* (2023) Computational capability of ecological dynamics. [_Royal Society Open Science_ 10:221614](https://doi.org/10.1098/rsos.221614)
+-  **Ushio M**\* (2022) Interaction capacity as a potential driver of community diversity. [_Proceedings of the Royal Society B_ 289: 20212690](https://doi.org/10.1098/rspb.2021.2690)
+-  **Ushio M**\*, Hsieh CH, Masuda R, Deyle RE, Ye H, Chang CW, Sugihara G, Kondoh M\* (2018) Fluctuating interaction network and time-varying stability of a natural fish community. [_Nature_ 554 (7692): 360–363](https://doi.org/10.1038/nature25504)
+-  **Ushio M**\*, Fukuda H, Inoue T, Makoto K, Kishida O, Sato K, Murata K, Nikaido M, Sado T, Sato Y, Takeshita M, Iwasaki W, Yamanaka H, Kondoh M, Miya M\* (2017) Environmental DNA enables detection of terrestrial mammals from forest pond water. [_Molecular Ecology Resources_ 17: e63–e75](https://dx.doi.org/10.1111/1755-0998.12690)
+-  **Ushio M**\*, Aiba S-I, Takeuchi Y, Iida Y, Matsuoka S, Repin R, Kitayama K (2017) Plant-soil feedbacks and the dominance of conifers in a tropical montane forest in Borneo. [_Ecological Monographs_ 87 (1): 105–129](https://dx.doi.org/10.1002/ecm.1236)
+
+その他の論文については [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){target="_blank"} を御覧ください
+

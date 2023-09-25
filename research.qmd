@@ -1,0 +1,38 @@
+---
+title: "Research"
+---
+
+## Ongoing projects
+
+### Ecological community monitoring using environmental DNA
+<img src="img/eDNAmethod_img.png" align="left" style="width:100%">
+<br clear="left">
+<br>
+This project focuses on developing and applying an innovative community monitoring technique called environmental DNA (eDNA) analysis, which allows us to monitor and understand ecological community dynamics in nature. We have developed various eDNA techniques such as **a quantitative eDNA monitoring technique** ([Ushio et al. 2018 _Metabarcoding & Metagenomics_](https://dx.doi.org/10.3897/mbmg.2.23297){target="_blank"}; [Ushio et al. 2023 _eLife_](https://doi.org/10.7554/eLife.85795.1){target="_blank"}), **a mammal eDNA detection method** ([Ushio et al. 2017 _Molecular Ecology Resources_](https://dx.doi.org/10.1111/1755-0998.12690){target="_blank"}), and **more efficient laboratory protocols for eDNA analysis** ([Ushio 2019 _Methods in Ecology and Evolution_](https://doi.org/10.1111/2041-210X.13204){target="_blank"}; [Ushio et al. 2022 _Environmental DNA_](https://doi.org/10.1002/edn3.337){target="_blank"}).
+<br>
+
+
+### Development and applications of novel statistical methods
+<img src="img/ERC_img.png" align="left" style="width:100%">
+<br clear="left">
+<br>
+Ecological community monitoring data can be noisy, and statistical analyses are required to extract essential information. Our research group has developed and applied various statistical methods to understand ecological community dynamics, including a method to evaluate fluctuating stability of natural ecological communities ([Ushio et al. 2018 _Nature_](https://doi.org/10.1038/nature25504){target="_blank"}), a method to detect causalities when time series data are highly synchronized ([Kitayama et al. 2021 _Journal of Ecology_](https://doi.org/10.1111/1365-2745.13500){target="_blank"}), and a novel machine learning approach that uses ecological dynamics as a computational resource ([Ushio et al. 2023 _Royal Society Open Science_](https://doi.org/10.1098/rsos.221614){target="_blank"}). Recently, we have proposed a unified framework for time-series based causality detection method ([Osada et al. 2023 _bioRxiv_](https://doi.org/10.1101/2023.04.20.537743){target="_blank"}).
+<br>
+
+### Integrating eDNA techniques and novel statistical methods
+<img src="img/Boso_eDNA.png" align="left" style="width:100%">
+<br clear="left">
+<br>
+We are particularly interested in how these advanced statistical methods can be combined with eDNA techniques, and have already explored this intersection in several publications, including [Ushio 2022 _Proceedings of the Royal Society B_](https://doi.org/10.1098/rspb.2021.2690){target="_blank"}, where we monitored a high-diversity community (>1,000 species) using the quantitative eDNA technique and analyzed interspecific interactions using nonlinear time series analytical tools. In [Ushio et al. 2023 _eLife_](https://doi.org/10.7554/eLife.85795.1){target="_blank"}, we analyzed 550 fish eDNA samples and quantified fish-fish interactions based on multispecies fish eDNA time series
+<br>
+
+<br>
+
+# Past projects
+
+### Plant-soil feedbacks in a tropical forest
+<img src="img/PSF_img.png" align="left" style="width:60%">
+<br clear="left">
+<br>
+Dr. Ushio has conducted research on plant-soil feedbacks in a forest ecosystem, with a primary focus on a tropical montane forest in Malaysian Borneo. This research aimed to understand the relationships among plant secondary metabolites, soil microbial communities, decomposition processes, and overall ecosystem dynamics.(see [Ushio et al. 2017 _Ecological Monographs_](https://dx.doi.org/10.1002/ecm.1236){target="_blank"}).
+
