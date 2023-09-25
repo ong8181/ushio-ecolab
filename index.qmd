@@ -16,5 +16,5 @@ Our research group, the Ushio Eco-Lab, launched in September 2022 and is current
 <br>
 
 ### <font color="darkred">NEWS</font>
-- 2023-05-10: We are seeking motivated students and postdocs. For more information, please check [here](joinlab.html).
-- 2023-05-10: Lab website launched!
+- 2023-09-25: We are seeking motivated students and postdocs. For more information, please check [here](joinlab.html).
+- 2023-09-25: Lab website launched!
