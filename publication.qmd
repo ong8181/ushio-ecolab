@@ -20,9 +20,13 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 -  **Ushio M**\*, Aiba S-I, Takeuchi Y, Iida Y, Matsuoka S, Repin R, Kitayama K (2017) Plant-soil feedbacks and the dominance of conifers in a tropical montane forest in Borneo. [_Ecological Monographs_ 87 (1): 105–129](https://dx.doi.org/10.1002/ecm.1236)
 
 
+<br>
+
+# Published / Preprints
+
 ----------
 
-### <font color="gray">Manuscripts in preprint servers</font>
+### <font color="gray">Preprints</font>
 
 ----------
 
@@ -34,13 +38,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 </font>
 
-
-# Published
-
-----------
-
-
-## In press/early view
+## In press / early view
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology (in Japanese) _Japanese Journal of Ecology_ xx:xxxx
 1.  Maxime M*, **Ushio M**, Sakai S. (2022)  
