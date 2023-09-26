@@ -1,5 +1,5 @@
 ---
-title: "ushio-eco-lab website"
+title: "Welcome to ushio-ecolab"
 ---
 
 <br>
