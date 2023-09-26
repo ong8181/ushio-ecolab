@@ -20,14 +20,19 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 -  **Ushio M**\*, Aiba S-I, Takeuchi Y, Iida Y, Matsuoka S, Repin R, Kitayama K (2017) Plant-soil feedbacks and the dominance of conifers in a tropical montane forest in Borneo. [_Ecological Monographs_ 87 (1): 105–129](https://dx.doi.org/10.1002/ecm.1236)
 
 
+----------
 
-### <font color="gray"> Manuscripts under review/revision</font>
+### <font color="gray">Manuscripts in preprint servers</font>
 
 ----------
 
-- Osada Y\*, **Ushio M**, Kondoh M (2023)
-    A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
+<font color="gray">
+
+- Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2023) Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_bioRxiv_](https://doi.org/10.1101/2023.09.13.557657)
+- Osada Y\*, **Ushio M**, Kondoh M (2023) A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
 - Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (2023) Metagenomic analysis of ecological niche overlap and community collapse in microbiome dynamics. [_bioRxiv_](https://doi.org/10.1101/2023.01.17.524457)  
+
+</font>
 
 
 # Published

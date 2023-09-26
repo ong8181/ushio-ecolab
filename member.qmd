@@ -30,7 +30,7 @@ title: "Members"
 - **Teaching**:
   - 2023/24 Fall: OCES3601, OCES1001 (omnibus)
   - 2023/24 Spring: Data Visualization (DASC3240), Fisheries and Aquaculture (OCES4103)
-- [Personal website](){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){target="_blank"}
+- [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){target="_blank"}
 
 <br>
 <!--
