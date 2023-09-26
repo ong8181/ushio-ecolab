@@ -6,12 +6,12 @@ title: "ushio-eco-lab website"
 
 <img src="img/hkust_ocean2022_2.png" alt="Ocean view from HKUST" style="width:100%">
 (Hong Kong, 2022)
-<p>
-<br>
-We are based at the [Department of Ocean Science (OCES)](https://oces.hkust.edu.hk/){target="_blank"} at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/){target="_blank"}.
-</p>
 
-Our research group, the Ushio Eco-Lab, launched in September 2022 and is currently focused on developing and applying environmental DNA techniques and statistical methods to study ocean ecosystems.
+<font size="+1">We are based at the [Department of Ocean Science (OCES)](https://oces.hkust.edu.hk/){target="_blank"} at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/){target="_blank"}.
+<br>
+<br>
+Our research group launched in September 2022 and is currently focused on developing and applying environmental DNA techniques and statistical methods to study ocean ecosystems.</font>
+
 
 <br>
 
