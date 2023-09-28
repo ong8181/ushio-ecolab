@@ -13,11 +13,11 @@ title: "Members"
 
 
 #### Robinson OSERO (MPhil)
+<img src="img/img_rk2023.png" align="left" style="width:22%">
+<br clear="left">
 
 - Master (2023, Nairobi University, Kenya)
-- **Contact**:
-- **Research theme**:
-- **Research interests**:
+- **Research interests**: As a marine biologist, I am extremely committed to learning about and protecting the different ecosystems that exist in our seas and oceans. I have been fascinated by the potential of environmental DNA (eDNA) as a strong tool for understanding marine ecosystems. I am certain that incorporating eDNA analysis into marine ecology studies can yield useful insights on marine creature biodiversity, population dynamics, and conservation. Hong Kong University of Science and Technology (HKUST) is second to none in enhancing my potential and projecting me to a record high level of marine life conservation.
 
 
 #### Masayuki USHIO (Principal Investigator)
@@ -25,8 +25,8 @@ title: "Members"
 <br clear="left">
 
 - Ph.D. (Science) (2010, Kyoto University)
-- **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
 - **Contact**: ushio (at) ust.hk
+- **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
 - **Teaching**:
   - 2023/24 Fall: OCES3601, OCES1001 (omnibus)
   - 2023/24 Spring: Data Visualization (DASC3240), Fisheries and Aquaculture (OCES4103)
