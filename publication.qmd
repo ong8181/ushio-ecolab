@@ -47,9 +47,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 ## 2023
 1. **Ushio M**\*, Saito H, Tojo M, Nagano AJ (2023)  
-    An ecological network approach for detecting and validating influential organisms for rice growth [_eLife_ 12:RP87202](https://doi.org/10.7554/eLife.87202)
+    An ecological network approach for detecting and validating influential organisms for rice growth. [_eLife_ 12:RP87202](https://doi.org/10.7554/eLife.87202)
 1. **Ushio M**\*, Sado T, Fukuchi T, Sasano S, Masuda R, Osada Y, Miya M\* (2023)  
-    Temperature sensitivity of the interspecific interaction strength of coastal marine fish communities [_eLife_ 12:RP85795](https://doi.org/10.7554/eLife.85795)
+    Temperature sensitivity of the interspecific interaction strength of coastal marine fish communities. [_eLife_ 12:RP85795](https://doi.org/10.7554/eLife.85795)
 1.  Yoneya K*, **Ushio M**, Miki T (2023)  
     Non-destructive collection and metabarcoding of arthropod environmental DNA remained on a terrestrial plant. [_Scientific Reports_ 13:7125](https://doi.org/10.1038/s41598-023-32862-4)
 1.  Jiang L\*, **Ushio M**, Kitayama K (2023)  
