@@ -29,7 +29,7 @@ title: "Members"
 - **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
 - **Teaching**:
   - 2023/24 Fall: OCES3601, OCES1001 (omnibus)
-  - 2023/24 Spring: Data Visualization (DASC3240), Fisheries and Aquaculture (OCES4103)
+  - 2023/24 Spring: DASC3240 (Data Visualization), OCES4103 (Fisheries and Aquaculture
 - [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){target="_blank"}
 
 <br>
