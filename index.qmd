@@ -10,7 +10,7 @@ title: "Welcome to ushio-ecolab"
 <font size="+1">We are based at the [Department of Ocean Science (OCES)](https://oces.hkust.edu.hk/){target="_blank"} at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/){target="_blank"}.
 <br>
 <br>
-Our research group launched in September 2022 and is currently focused on developing and applying environmental DNA techniques and statistical methods to study ocean ecosystems.</font>
+Our research group launched in September 2022 and is currently focused on developing environmental DNA techniques and statistical methods to study marine ecosystems.</font>
 
 
 <br>
