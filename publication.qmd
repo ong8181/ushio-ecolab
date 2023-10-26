@@ -39,13 +39,13 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-1. Sakata A\*, Sado T, Oka S-I, **Ushio M**, Miya\* (in press)  
-   Collection of environmental DNA from stemflow for monitoring arboreal biodiversity: preliminary validation using lichens. [_MethodsX_](https://doi.org/10.1016/j.mex.2023.102448)
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
 
 ## 2023
+1. Sakata A\*, Sado T, Oka S-I, **Ushio M**, Miya\* (2023)  
+   Collection of environmental DNA from stemflow for monitoring arboreal biodiversity: preliminary validation using lichens. [_MethodsX_ 11:102448](https://doi.org/10.1016/j.mex.2023.102448)
 1.  Maxime M\*, **Ushio M**, Sakai S. (2023)  
     The effects of the floral infection by a bacterial pathogen in a dioecious plant, _Mallotus japonicus_ (Euphorbiaceae). [_Population Ecology_  65:232-239](https://doi.org/10.1002/1438-390X.12110)
 1. **Ushio M**\*, Saito H, Tojo M, Nagano AJ (2023)  
