@@ -34,11 +34,12 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 - Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2023) Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_bioRxiv_](https://doi.org/10.1101/2023.09.13.557657)
 - Osada Y\*, **Ushio M**, Kondoh M (2023) A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
-- Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (2023) Metagenomic analysis of ecological niche overlap and community collapse in microbiome dynamics. [_bioRxiv_](https://doi.org/10.1101/2023.01.17.524457)  
 
 </font>
 
 ## In press / early view
+1. Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (in press)  
+    Metagenomic analysis of ecological niche overlap and community collapse in microbiome dynamics. _Frontiers in Microbiology_
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
