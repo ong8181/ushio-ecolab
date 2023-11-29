@@ -38,11 +38,14 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-1. Sugiyama Y\*, Matsuoka S, Shimono Y, **Ushio M**, Doi H (in press)  
-    Does water fungal environmental DNA assemblage reflect the surrounding terrestrial sporocarp community? _Fungal Ecology_
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
+
+## 2024
+1. Sugiyama Y\*, Matsuoka S, Shimono Y, **Ushio M**, Doi H (2024)  
+    Does water fungal environmental DNA assemblage reflect the surrounding terrestrial sporocarp community? [_Fungal Ecology_ 67:101311](https://doi.org/10.1016/j.funeco.2023.101311)
+    
 
 ## 2023
 1. Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (2023)  
