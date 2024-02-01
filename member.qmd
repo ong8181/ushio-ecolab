@@ -28,8 +28,8 @@ title: "Members"
 - **Contact**: ushio (at) ust.hk
 - **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
 - **Teaching**:
-  - 2023/24 Fall: OCES3601, OCES1001 (omnibus)
-  - 2023/24 Spring: DASC3240 (Data Visualization), OCES4103 (Fisheries and Aquaculture
+  - 2023/24 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
+  - 2023/24 Spring: DASC3240 (Data Visualization), OCES4103 (Fisheries and Aquaculture), OCES1001 (ominibus), SCIE1500 (ominibus)
 - [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){target="_blank"}
 
 <br>
