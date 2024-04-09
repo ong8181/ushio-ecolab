@@ -38,6 +38,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
+1. Maehara K, Iwachido Y, Katsuhara H, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T\* (in press)  
+   Plant and soil microbial community assembly processes across urban vacant lots. _Journal of Vegetation Science_
+
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
