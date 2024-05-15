@@ -38,20 +38,19 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-1. Maehara K, Iwachido Y, Katsuhara H, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T\* (in press)  
-   Plant and soil microbial community assembly processes across urban vacant lots. _Journal of Vegetation Science_
-
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
 
 ## 2024
+1. Maehara K, Iwachido Y, Katsuhara H, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T\* (2024)  
+    Plant and soil microbial community assembly processes across urban vacant lots. [_Journal of Vegetation Science_ 35:e13262](https://doi.org/10.1111/jvs.13262)
 1. Sugiyama Y\*, Matsuoka S, Shimono Y, **Ushio M**, Doi H (2024)  
     Do water fungal environmental DNA assemblages reflect the surrounding terrestrial sporocarp communities? [_Fungal Ecology_ 67:101311](https://doi.org/10.1016/j.funeco.2023.101311)
     
 
 ## 2023
-1. Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (2023)
+1. Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (2023)  
     Metagenomic analysis of ecological niche overlap and community collapse in microbiome dynamics. [_Frontiers in Microbiology_ 14:1261137](https://doi.org/10.3389/fmicb.2023.1261137)
 1. Sakata A\*, Sado T, Oka S-I, **Ushio M**, Miya M\* (2023)  
    Collection of environmental DNA from stemflow for monitoring arboreal biodiversity: preliminary validation using lichens. [_MethodsX_ 11:102448](https://doi.org/10.1016/j.mex.2023.102448)
