@@ -8,8 +8,8 @@ title: "Members"
 #### Suixian HUANG (MPhil)
 - Bachelor (2023, Sun Yat-sen University, China)
 - **Contact**:
-- **Research theme**: Redtide monitoring, Satelite data analysis, Time series analysis
-- **Research interests**: Forecasting harmful algal bloom events
+- **Research interest**: Redtide monitoring, Satelite data analysis, Time series analysis
+- **Research project**: Forecasting harmful algal bloom events
 
 
 #### Robinson OSERO (MPhil)
