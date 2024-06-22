@@ -32,7 +32,6 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 <font color="gray">
 
-- Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2023) Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_bioRxiv_](https://doi.org/10.1101/2023.09.13.557657) [_eLife_ (Reviewed Preprint)](https://doi.org/10.7554/eLife.93694)
 - Osada Y\*, **Ushio M**, Kondoh M (2023) A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
 
 </font>
@@ -43,6 +42,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 
 ## 2024
+1. Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2024) Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_eLife_ 13:RP93694](https://doi.org/10.7554/eLife.93694)
 1. Maehara K, Iwachido Y, Katsuhara H, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T\* (2024)  
     Plant and soil microbial community assembly processes across urban vacant lots. [_Journal of Vegetation Science_ 35:e13262](https://doi.org/10.1111/jvs.13262)
 1. Sugiyama Y\*, Matsuoka S, Shimono Y, **Ushio M**, Doi H (2024)  

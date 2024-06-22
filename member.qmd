@@ -11,6 +11,12 @@ title: "Members"
 - **Research interest**: Redtide monitoring, Satelite data analysis, Time series analysis
 - **Research project**: Forecasting harmful algal bloom events
 
+#### Takamitsu OHIGASHI (JSPS Postdoc)
+- PhD (2024, Hokkaido University, Japan)
+- **Contact**:
+- **Research interest**: 
+- **Research project**: 
+
 
 #### Robinson OSERO (MPhil)
 <img src="img/img_rk2023.png" align="left" style="width:22%">
