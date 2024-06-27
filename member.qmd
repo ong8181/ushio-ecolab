@@ -13,9 +13,9 @@ title: "Members"
 
 #### Takamitsu OHIGASHI (JSPS Postdoc)
 - PhD (2024, Hokkaido University, Japan)
-- **Contact**:
-- **Research interest**: 
-- **Research project**: 
+- **Contact**: ocesohigashi (at) ust.hk
+- **Research interest**: Microbial ecology, Material cycling, Species-environment interaction
+- **Research project**: Ecosystem monitoring using eDNA, Time series data analysis of fish communities
 
 
 #### Robinson OSERO (MPhil)
