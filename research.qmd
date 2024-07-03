@@ -2,6 +2,19 @@
 title: "Research"
 ---
 
+## Ongoing projects
+#### Establishment of an environmental DNA-based cetacean monitoring framework in Hong Kong waters
+- Leading (PI)
+- [RGC - General Research Fund](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html)
+- HKD 1,323,889 (from 1 Sep 2024 - 31 Aug 2027)
+
+#### Developing a non-invasive method to estimate the age of Chinese White Dolphins and Finless Porpoises using the DNA methylation rate
+- Leading (PI)
+- [Marine Ecology Enhancement Fund (MEEF)](https://env.threerunwaysystem.com/en/meef/index.html)
+- HKD 273,600 (from 1 July 2024 - 30 June 2025)
+<br>
+<br>
+
 ## Research themes
 
 ### Ecological community monitoring using environmental DNA
@@ -30,20 +43,8 @@ We are particularly interested in **how these advanced statistical methods can b
 <br>
 <br>
 
-## Ongoing projects
-#### Establishment of an environmental DNA-based cetacean monitoring framework in Hong Kong waters
-- Leading (PI)
-- [RGC - General Research Fund](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html)
-- HKD 1,323,889 (from 1 Sep 2024 - 31 Aug 2027)
 
-#### Developing a non-invasive method to estimate the age of Chinese White Dolphins and Finless Porpoises using the DNA methylation rate
-- Leading (PI)
-- [Marine Ecology Enhancement Fund (MEEF)](https://env.threerunwaysystem.com/en/meef/index.html)
-- HKD 273,600 (from 1 July 2024 - 30 June 2025)
-<br>
-<br>
-
-# Past projects
+## Past projects
 
 ### Plant-soil feedbacks in a tropical forest
 <img src="img/PSF_img.png" align="left" style="width:70%">

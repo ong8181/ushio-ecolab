@@ -16,5 +16,14 @@ Our research group launched in September 2022 and is currently focused on develo
 <br>
 
 ### <font color="darkred">NEWS</font>
-- 2023-09-25: We are seeking motivated students and postdocs. For more information, please check [here](joinlab.html).
-- 2023-09-25: Lab website launched!
+##### 2024-06-27
+Two research proposals were approved and we secured new research funding. One is General Research Fund (GRF) from RGC and the other is Marine Ecology Enhancement Fund (MEEF) from the Airport Authority. See [Research page](research.html).
+
+##### 2024-06-18
+A new member, Dr. Taka Ohigashi, joined our lab. Welcome, Taka! See [Member page](member.html).
+
+##### 2023-09-25
+We are seeking motivated students and postdocs. For more information, please check [here](joinlab.html).
+
+##### 2023-09-25
+Lab website launched!
