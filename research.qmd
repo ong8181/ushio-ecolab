@@ -16,7 +16,7 @@ title: "Research"
 <br>
 <br>
 
-## Research themes
+## Research topics
 
 ### Ecological community monitoring using environmental DNA
 <img src="img/eDNAmethod_img.png" align="left" style="width:100%">
