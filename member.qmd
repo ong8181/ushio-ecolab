@@ -5,19 +5,22 @@ title: "Members"
 ### Current members
 <br>
 
-#### Suixian HUANG <font size=3 color="gray">(MPhil, Sep 2023~)</font>
+#### Suixuan HUANG <font size=3 color="gray">(MPhil, Sep 2023~)</font>
 - Bachelor (2023, Sun Yat-sen University, China)
 - **Research interest**: Redtide monitoring, Satelite data analysis, Time series analysis
 - **Research project**: Forecasting harmful algal bloom events
 <br>
 <br>
 
-#### Takamitsu OHIGASHI <font size=3 color="gray">(JSPS Postdoc, June 2024~)</font>
-- PhD (2024, Hokkaido University, Japan)
-- **Contact**: ocesohigashi (at) ust.hk
-- **Research interest**: Microbial ecology, Material cycling, Species-environment interaction
-- **Research project**: Ecosystem monitoring using eDNA, Time series data analysis of fish communities
-- [Personal website](https://otfight67.wixsite.com/researchprofile){target="_blank"}, [Google Scholar Profile](https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en){target="_blank"}
+#### Xiaoqi LIN <font size=3 color="gray">(PhD, Sep 2024~)</font>
+- **Research interest**: Environmental DNA
+- **Research project**: Cetacean eDNA monitoring project
+<br>
+<br>
+
+#### Chengbin LIU <font size=3 color="gray">(MPhil, Sep 2024~)</font>
+- **Research interest**: Environmental DNA
+- **Research project**: Cetacean DNA methylation project
 <br>
 <br>
 
@@ -30,6 +33,15 @@ title: "Members"
 <br>
 <br>
 
+#### Takamitsu OHIGASHI <font size=3 color="gray">(JSPS Postdoc, June 2024~)</font>
+- PhD (2024, Hokkaido University, Japan)
+- **Contact**: ocesohigashi (at) ust.hk
+- **Research interest**: Microbial ecology, Material cycling, Species-environment interaction
+- **Research project**: Ecosystem monitoring using eDNA, Time series data analysis of fish communities
+- [Personal website](https://otfight67.wixsite.com/researchprofile){target="_blank"}, [Google Scholar Profile](https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en){target="_blank"}
+<br>
+<br>
+
 #### Masayuki USHIO <font size=3 color="gray">(Principal Investigator, Sep 2022~)</font>
 <img src="img/img_mu2022.png" align="left" style="width:15%">
 <br clear="left">
@@ -39,8 +51,25 @@ title: "Members"
 - **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
 - **Teaching**:
   - 2023/24 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
-  - 2023/24 Spring: DASC3240 (Data Visualization), OCES4103 (Fisheries and Aquaculture), OCES1001 (ominibus), SCIE1500 (ominibus)
+  - 2023/24 Spring: DASC3240 (Data Visualization in Science), OCES4103 (Fisheries and Aquaculture), OCES1001 (ominibus), SCIE1500 (ominibus)
+  - 2024/25 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
 - [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ&hl=en){target="_blank"}
+<br>
+<br>
+
+### Co-supervising members
+
+#### Lucia HU <font size=3 color="gray">(MPhil, Sep 2024~)</font>
+With Alex Wyatt Lab  
+- **Research interest**: Environmental DNA  
+- **Research project**: Sponge eDNA project  
+<br>
+<br>
+
+#### Ming Wai LI (Taylor) <font size=3 color="gray">(MPhil, Sep 2024~)</font>
+With Charmaine Yung Lab  
+- **Research interest**: Environmental DNA  
+- **Research project**: HK grouper project  
 <br>
 <br>
 
