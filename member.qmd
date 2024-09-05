@@ -6,26 +6,39 @@ title: "Members"
 <br>
 
 #### Suixuan HUANG <font size=3 color="gray">(MPhil, Sep 2023~)</font>
-- Bachelor (2023, Sun Yat-sen University, China)
-- **Research interest**: Redtide monitoring, Satelite data analysis, Time series analysis
+<img src="img/img_sx2024.webp" align="left" style="height:250px">
+<br clear="left">
+
+- Bachelor (2023, Sun Yat-sen University, China)  
+- **Research interest**: Red tide monitoring, Satellite data analysis, Time series analysis
 - **Research project**: Forecasting harmful algal bloom events
 <br>
 <br>
 
+
 #### Xiaoqi LIN <font size=3 color="gray">(PhD, Sep 2024~)</font>
-- **Research interest**: Environmental DNA
-- **Research project**: Cetacean eDNA monitoring project
+<img src="img/img_xq2024.webp" align="left" style="height:250px">  
+<br clear="left">
+
+- Bachelor(2021, Ocean University of China, China)  
+- Master(2024, Shantou University, China)  
+- **Research interest**: Environmental DNA  
+- **Research project**: Cetacean eDNA monitoring project  
 <br>
 <br>
 
 #### Chengbin LIU <font size=3 color="gray">(MPhil, Sep 2024~)</font>
-- **Research interest**: Environmental DNA
+<img src="img/img_cb2024.webp" align="left" style="height:250px">
+<br clear="left">
+
+- Bachelor (2024, Zhejiang University, China)  
+- **Research interest**: Environmental DNA  
 - **Research project**: Cetacean DNA methylation project
 <br>
 <br>
 
 #### Robinson KISERO <font size=3 color="gray">(MPhil, Sep 2023~)</font>
-<img src="img/img_rk2023.png" align="left" style="width:22%">
+<img src="img/img_rk2023.png" align="left" style="height:200px">
 <br clear="left">
 
 - Master (2023, The University of Nairobi, Kenya)
@@ -34,6 +47,9 @@ title: "Members"
 <br>
 
 #### Takamitsu OHIGASHI <font size=3 color="gray">(JSPS Postdoc, June 2024~)</font>
+<img src="img/img_tk2024.webp" align="left" style="height:250px">
+<br clear="left">
+
 - PhD (2024, Hokkaido University, Japan)
 - **Contact**: ocesohigashi (at) ust.hk
 - **Research interest**: Microbial ecology, Material cycling, Species-environment interaction
@@ -43,7 +59,7 @@ title: "Members"
 <br>
 
 #### Masayuki USHIO <font size=3 color="gray">(Principal Investigator, Sep 2022~)</font>
-<img src="img/img_mu2022.png" align="left" style="width:15%">
+<img src="img/img_mu2022.png" align="left" style="height:200px">
 <br clear="left">
 
 - Ph.D. (Science) (2010, Kyoto University, Japan)
@@ -57,7 +73,7 @@ title: "Members"
 <br>
 <br>
 
-### Co-supervising members
+### Co-supervising students
 
 #### Lucia HU <font size=3 color="gray">(MPhil, Sep 2024~)</font>
 With Alex Wyatt Lab  
@@ -67,13 +83,20 @@ With Alex Wyatt Lab
 <br>
 
 #### Ming Wai LI (Taylor) <font size=3 color="gray">(MPhil, Sep 2024~)</font>
+<img src="img/img_tl2024.webp" align="left" style="height:250px">
+<br clear="left">
+
 With Charmaine Yung Lab  
-- **Research interest**: Environmental DNA  
+- Bachelor (2024, HKUST)  
+- **Research interest**: My research focuses on applying environmental DNA (eDNA) technology to marine community and ecosystem management, with a particular emphasis on fish populations. I am passionate about exploring the potential of eDNA in fisheries management and conservation, aiming to contribute to more sustainable practices in marine ecosystems.  
 - **Research project**: HK grouper project  
 <br>
 <br>
 
 <!--
-# Past members
+### Final Year Project students
+- Wingki
+
+### Past members
 - Marin KOMOJIRI (2022.4-8, Research Assistant)
 -->
