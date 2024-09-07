@@ -4,7 +4,7 @@ title: "Welcome to ushio-ecolab"
 
 <br>
 
-<img src="img/hkust_ocean2022_2.png" alt="Ocean view from HKUST" style="width:100%">
+<img src="img/hkust_ocean2022_2.webp" alt="Ocean view from HKUST" style="width:100%">
 (Hong Kong, 2022)
 
 <font size="+1">We are based at the [Department of Ocean Science (OCES)](https://oces.hkust.edu.hk/){target="_blank"} at the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/){target="_blank"}.
