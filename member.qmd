@@ -38,7 +38,7 @@ title: "Members"
 <br>
 
 #### Robinson KISERO <font size=3 color="gray">(MPhil, Sep 2023~)</font>
-<img src="img/img_rk2023.png" align="left" style="height:200px">
+<img src="img/img_rk2023.webp" align="left" style="height:200px">
 <br clear="left">
 
 - Master (2023, The University of Nairobi, Kenya)
@@ -59,7 +59,7 @@ title: "Members"
 <br>
 
 #### Masayuki USHIO <font size=3 color="gray">(Principal Investigator, Sep 2022~)</font>
-<img src="img/img_mu2022.png" align="left" style="height:200px">
+<img src="img/img_mu2024.webp" align="left" style="height:200px">
 <br clear="left">
 
 - Ph.D. (Science) (2010, Kyoto University, Japan)
