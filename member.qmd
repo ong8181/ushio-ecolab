@@ -79,11 +79,11 @@ title: "Members"
 <img src="img/img_lu2024.webp" align="left" style="height:250px">
 <br clear="left">
 
-With Alex Wyatt Lab  
+[**Alex Wyatt Lab**](https://www.oceanecol.com/)  
 - Bachelor of Science (Hon) (Marine Science) (2024, Auckland University of Technology, New Zealand)  
 - Bachelor of Science (Marine Ecology and Zoology) (2018, Massey University, New Zealand)  
 - **Research interest**: Habitat connectivity (coastal darkening), Marine genomics, Deep-sea ecology, Taxonomy  
-- **Research project**: I want to explore the idea of habitat connectivity – looking at how terrestrial modifications can physically and biologically alter adjacent marine ecosystems. I want to learn and utilise eDNA as a biomonitoring tool to assess how species composition changes within rapidly evolving coasts and deep water coral systems. I am also a massive fan of museums, which have an abundance of archival species. Therefore, as part of my research, it would be exciting to reconstruct historical communities and compare them to current coral communities under higher human-induced and natural impacts.  
+- **Research project**: I want to explore the idea of habitat connectivity – looking at how terrestrial modifications can physically and biologically alter adjacent marine ecosystems. I want to learn and utilise eDNA as a biomonitoring tool to assess how species composition changes within rapidly evolving coasts and deep water coral systems. I am also a massive fan of museums, which have an abundance of archival species. Therefore, as part of my research, it would be exciting to reconstruct historical communities and compare them to current coral communities under higher human-induced and natural impacts.
 <br>
 <br>
 
@@ -91,7 +91,7 @@ With Alex Wyatt Lab
 <img src="img/img_tl2024.webp" align="left" style="height:250px">
 <br clear="left">
 
-With Charmaine Yung Lab  
+[**Charmaine Yung Lab**](https://www.charmaineyung.com/)  
 - Bachelor (2024, HKUST, Hong Kong SAR)  
 - **Research interest**: My research focuses on applying environmental DNA (eDNA) technology to marine community and ecosystem management, with a particular emphasis on fish populations. I am passionate about exploring the potential of eDNA in fisheries management and conservation, aiming to contribute to more sustainable practices in marine ecosystems.  
 - **Research project**: HK grouper project  
