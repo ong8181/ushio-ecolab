@@ -44,6 +44,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 
 ## 2024
+1. Jiang L*, **Ushio M**, Imai N, Sugau J, Kitayama K (2024) Changes of bacterial versus fungal community composition along a forest degradation gradient of logged-over tropical rain forests, and their consequences on soil enzyme activities in Malaysian Borneo. [_Plant and Soil_](https://doi.org/10.1007/s11104-024-06939-6)
 1. Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2024) Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_eLife_ 13:RP93694](https://doi.org/10.7554/eLife.93694)
 1. Maehara K, Iwachido Y, Katsuhara H, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T\* (2024)  
     Plant and soil microbial community assembly processes across urban vacant lots. [_Journal of Vegetation Science_ 35:e13262](https://doi.org/10.1111/jvs.13262)
