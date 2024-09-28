@@ -15,6 +15,14 @@ title: "Members"
 <br>
 <br>
 
+#### Robinson KISERO <font size=3 color="gray">(MPhil, Sep 2023~)</font>
+<img src="img/img_rk2023.webp" align="left" style="height:200px">
+<br clear="left">
+
+- Master (2023, The University of Nairobi, Kenya)
+- **Research interests**: As a marine biologist, I am extremely committed to learning about and protecting the different ecosystems that exist in our seas and oceans. I have been fascinated by the potential of environmental DNA (eDNA) as a strong tool for understanding marine ecosystems. I am certain that incorporating eDNA analysis into marine ecology studies can yield useful insights on marine creature biodiversity, population dynamics, and conservation. Hong Kong University of Science and Technology (HKUST) is second to none in enhancing my potential and projecting me to a record high level of marine life conservation.
+<br>
+<br>
 
 #### Xiaoqi LIN <font size=3 color="gray">(PhD, Sep 2024~)</font>
 <img src="img/img_xq2024.webp" align="left" style="height:250px">  
@@ -34,15 +42,6 @@ title: "Members"
 - Bachelor (2024, Zhejiang University, China)  
 - **Research interest**: Environmental DNA  
 - **Research project**: Cetacean DNA methylation project
-<br>
-<br>
-
-#### Robinson KISERO <font size=3 color="gray">(MPhil, Sep 2023~)</font>
-<img src="img/img_rk2023.webp" align="left" style="height:200px">
-<br clear="left">
-
-- Master (2023, The University of Nairobi, Kenya)
-- **Research interests**: As a marine biologist, I am extremely committed to learning about and protecting the different ecosystems that exist in our seas and oceans. I have been fascinated by the potential of environmental DNA (eDNA) as a strong tool for understanding marine ecosystems. I am certain that incorporating eDNA analysis into marine ecology studies can yield useful insights on marine creature biodiversity, population dynamics, and conservation. Hong Kong University of Science and Technology (HKUST) is second to none in enhancing my potential and projecting me to a record high level of marine life conservation.
 <br>
 <br>
 
