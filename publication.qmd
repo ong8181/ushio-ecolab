@@ -41,6 +41,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
+1.  Fukasawa Y\*, Kimura S, Kominami Y, Takagi M, Matsukura K, Makoto K, Suzuki SN, Takemoto S, Tanaka N, Jomura M, Kadowaki K, **Ushio M**, Kinuura H, Yamashita S (accepted)  
+    Oak wilt disease may reduce the initial decay rate of dead Quercus serrata stems by altering fungal communities in the wood. _Environmental Microbiology_
+
 1.  Oka S-I\*, Sado T, **Ushio M**, Miya M\* (accepted)  
     Assessing the impact of tidal changes on fish environmental DNA metabarcoding in temperate and tropical coastal regions of Japan. _Metabarcoding & Metagenomics_
 
