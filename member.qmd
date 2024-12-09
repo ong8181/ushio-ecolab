@@ -68,7 +68,7 @@ title: "Members"
   - 2023/24 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
   - 2023/24 Spring: DASC3240 (Data Visualization in Science), OCES4103 (Fisheries and Aquaculture), OCES1001 (ominibus), SCIE1500 (ominibus)
   - 2024/25 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
-- [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ&hl=en){target="_blank"}
+- [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ&hl=en){target="_blank"}, [Github](https://github.com/ong8181){target="_blank"}
 <br>
 <br>
 
