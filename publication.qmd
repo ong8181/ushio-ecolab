@@ -41,15 +41,16 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-1.  Fukasawa Y\*, Kimura S, Kominami Y, Takagi M, Matsukura K, Makoto K, Suzuki SN, Takemoto S, Tanaka N, Jomura M, Kadowaki K, **Ushio M**, Kinuura H, Yamashita S (accepted)  
-    Oak wilt disease may reduce the initial decay rate of dead Quercus serrata stems by altering fungal communities in the wood. _Environmental Microbiology_
-
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
+## 2025
+1.  Fukasawa Y\*, Kimura S, Kominami Y, Takagi M, Matsukura K, Makoto K, Suzuki SN, Takemoto S, Tanaka N, Jomura M, Kadowaki K, **Ushio M**, Kinuura H, Yamashita S (2025)  
+    Oak wilt disease may reduce the initial decay rate of dead Quercus serrata stems by altering fungal communities in the wood. [_Environmental Microbiology_](https://doi.org/10.1111/1462-2920.70026)
+
 
 ## 2024
-1.  Oka S-I\*, Sado T, **Ushio M**, Miya M\* (accepted)  
+1.  Oka S-I\*, Sado T, **Ushio M**, Miya M\* (2024)  
     Assessing the impact of tidal changes on fish environmental DNA metabarcoding in temperate and tropical coastal regions of Japan. [_Metabarcoding & Metagenomics_ 8:e135461](https://doi.org/10.3897/mbmg.8.135461)
 
 1. Jiang L*, **Ushio M**, Imai N, Sugau J, Kitayama K (2024) Changes of bacterial versus fungal community composition along a forest degradation gradient of logged-over tropical rain forests, and their consequences on soil enzyme activities in Malaysian Borneo. [_Plant and Soil_](https://doi.org/10.1007/s11104-024-06939-6)
