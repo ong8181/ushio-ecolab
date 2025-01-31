@@ -53,7 +53,7 @@ title: "Members"
 - **Contact**: ocesohigashi (at) ust.hk
 - **Research interest**: Microbial ecology, Material cycling, Species-environment interaction
 - **Research project**: Ecosystem monitoring using eDNA, Time series data analysis of fish communities
-- [Personal website](https://otfight67.wixsite.com/researchprofile){target="_blank"}, [Google Scholar Profile](https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en){target="_blank"}
+- [Personal website](https://taka-ohi.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en){target="_blank"}
 <br>
 <br>
 
