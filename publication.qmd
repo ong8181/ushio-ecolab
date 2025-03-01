@@ -32,8 +32,6 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 <font color="gray">
 
-- Miki T, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (2024) How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis. [_arXiv_](https://doi.org/10.48550/arXiv.2411.09030)
-
 - Gao et al. (2024) Diversity and distinctive traits of the global RNA virome in urban environments. [Available at SSRN](https://dx.doi.org/10.2139/ssrn.4871972)
 
 - Osada Y\*, **Ushio M**, Kondoh M (2023) A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
@@ -41,6 +39,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
+1. Miki T\*, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (2024) How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis. _Physica D: Nonlinear Phenomena_
+
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
