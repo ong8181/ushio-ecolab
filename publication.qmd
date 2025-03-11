@@ -39,14 +39,14 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-1. Miki T\*, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (in press) How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis. _Physica D: Nonlinear Phenomena_
-
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
 ## 2025
+1. Miki T\*, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (2025) How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis. [_Physica D: Nonlinear Phenomena_ 134613](https://doi.org/10.1016/j.physd.2025.134613)
+
 1.  Fukasawa Y\*, Kimura S, Kominami Y, Takagi M, Matsukura K, Makoto K, Suzuki SN, Takemoto S, Tanaka N, Jomura M, Kadowaki K, **Ushio M**, Kinuura H, Yamashita S (2025)  
-    Oak wilt disease may reduce the initial decay rate of dead Quercus serrata stems by altering fungal communities in the wood. [_Environmental Microbiology_](https://doi.org/10.1111/1462-2920.70026)
+    Oak wilt disease may reduce the initial decay rate of dead Quercus serrata stems by altering fungal communities in the wood. [_Environmental Microbiology_ 1:e70026](https://doi.org/10.1111/1462-2920.70026)
 
 
 ## 2024
