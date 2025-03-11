@@ -5,6 +5,17 @@ title: "Members"
 ### Current members
 <br>
 
+#### Ocean Rauszen ABBAS <font size=3 color="gray">(MPhil, Feb 2025~)</font>
+<img src="img/img_oa2025.webp" align="left" style="height:250px">
+<br clear="left">
+
+- Bachelor (2023, Hong Kong University of Science and Technology, Hong Kong)
+- **Research interest**: Environmental DNA, ecology, conservation
+- **Research project**: Use of sedimentary eDNA to reconstruct past marine communities in Hong Kong
+<br>
+<br>
+
+
 #### Suixuan HUANG <font size=3 color="gray">(MPhil, Sep 2023~)</font>
 <img src="img/img_sx2024.webp" align="left" style="height:250px">
 <br clear="left">
@@ -57,6 +68,19 @@ title: "Members"
 <br>
 <br>
 
+
+#### Shuting QIU (Nova) <font size=3 color="gray">(PhD, Feb 2025~)</font>
+<img src="img/img_sq2025.jpg" align="left" style="height:250px">
+<br clear="left">
+
+- Mphil (2024, Marine Science in Universiti Malaya, Malaysia) (Joint program with the third institute of oceanography, ministry of natural resources, PRC)
+- Bachelor (2020, Environmental Science in Xiamen University TKK college)
+- **Contact**: sqiuau (at) connect.ust.hk
+- **Research interest**: Environmental DNA, Environmental RNA, Fish ecology, Fish monitoring
+<br>
+<br>
+
+
 #### Masayuki USHIO <font size=3 color="gray">(Principal Investigator, Sep 2022~)</font>
 <img src="img/img_mu2024.webp" align="left" style="height:200px">
 <br clear="left">
@@ -66,8 +90,9 @@ title: "Members"
 - **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
 - **Teaching**:
   - 2023/24 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
-  - 2023/24 Spring: DASC3240 (Data Visualization in Science), OCES4103 (Fisheries and Aquaculture), OCES1001 (ominibus), SCIE1500 (ominibus)
-  - 2024/25 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
+  - 2023/24 Spring: OCES4103 (Fisheries and Aquaculture), DASC3240 (Data Visualization in Science), OCES1001 (ominibus), SCIE1500 (ominibus)
+  - 2024/25 Fall: OCES3601 (Ecology)
+  - 2024/25 Spring: OCES4103 (Fisheries and Aquaculture), DASC3240 (Data Visualization in Science)
 - [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ&hl=en){target="_blank"}, [Github](https://github.com/ong8181){target="_blank"}
 <br>
 <br>
