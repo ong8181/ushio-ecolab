@@ -16,6 +16,9 @@ Our research group launched in September 2022 and is currently focused on develo
 <br>
 
 ### <font color="darkred">NEWS</font>
+##### 2025-03-20
+We posted our new preprint in _bioRxiv_ ([here](https://doi.org/10.1101/2025.03.19.644246))! This is our first "Hong Kong" paper!
+
 ##### 2024-09-22
 Dr. Ushio is listed in "[World Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/7)" ("single recent year impact" category).
 
