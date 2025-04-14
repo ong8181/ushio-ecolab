@@ -41,6 +41,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
+1. Lee SW, Xu Z, **Ushio M**, Zhang X, Liu H (accepted)  
+    Community stability of free-living and particle-attached bacteria in coastal waters across four seasons: insights from 9.5 years of weekly sampling _Marine Pollution Bulletin_
+
 1. **Ushio M**\*, Nakajima K (in press)  
     Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
