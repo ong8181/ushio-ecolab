@@ -41,15 +41,14 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-1. **Ushio M**\*, Nakajima K (in press)  
-    Reservoir computing: theory and its potential applications in ecology. (in Japanese) _Japanese Journal of Ecology_
 
 ## 2025
+1. **Ushio M**\*, Nakajima K (2025)  
+    Reservoir computing: theory and its potential applications in ecology. (in Japanese) [_Japanese Journal of Ecology_ 74:229-238](https://doi.org/10.1016/j.marpolbul.2025.117990)
 1. Lee SS, Lee HS, Xu Z, **Ushio M**, Zhang X, Liu H\* (2025)  
     Community stability of free-living and particle-attached bacteria in coastal waters across four seasons: insights from 9.5 years of weekly sampling. [_Marine Pollution Bulletin_ 216:117990](https://doi.org/10.1016/j.marpolbul.2025.117990)
-
-1. Miki T\*, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (2025) How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis. [_Physica D: Nonlinear Phenomena_ 134613](https://doi.org/10.1016/j.physd.2025.134613)
-
+1. Miki T\*, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (2025)  
+    How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis. [_Physica D: Nonlinear Phenomena_ 134613](https://doi.org/10.1016/j.physd.2025.134613)
 1.  Fukasawa Y\*, Kimura S, Kominami Y, Takagi M, Matsukura K, Makoto K, Suzuki SN, Takemoto S, Tanaka N, Jomura M, Kadowaki K, **Ushio M**, Kinuura H, Yamashita S (2025)  
     Oak wilt disease may reduce the initial decay rate of dead Quercus serrata stems by altering fungal communities in the wood. [_Environmental Microbiology_ 27:e70026](https://doi.org/10.1111/1462-2920.70026)
 
@@ -57,9 +56,10 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 ## 2024
 1.  Oka S-I\*, Sado T, **Ushio M**, Miya M\* (2024)  
     Assessing the impact of tidal changes on fish environmental DNA metabarcoding in temperate and tropical coastal regions of Japan. [_Metabarcoding & Metagenomics_ 8:e135461](https://doi.org/10.3897/mbmg.8.135461)
-
-1. Jiang L*, **Ushio M**, Imai N, Sugau J, Kitayama K (2024) Changes of bacterial versus fungal community composition along a forest degradation gradient of logged-over tropical rain forests, and their consequences on soil enzyme activities in Malaysian Borneo. [_Plant and Soil_](https://doi.org/10.1007/s11104-024-06939-6)
-1. Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2024) Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_eLife_ 13:RP93694](https://doi.org/10.7554/eLife.93694)
+1. Jiang L*, **Ushio M**, Imai N, Sugau J, Kitayama K (2024)  
+    Changes of bacterial versus fungal community composition along a forest degradation gradient of logged-over tropical rain forests, and their consequences on soil enzyme activities in Malaysian Borneo. [_Plant and Soil_](https://doi.org/10.1007/s11104-024-06939-6)
+1. Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2024)  
+    Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_eLife_ 13:RP93694](https://doi.org/10.7554/eLife.93694)
 1. Maehara K, Iwachido Y, Katsuhara H, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T\* (2024)  
     Plant and soil microbial community assembly processes across urban vacant lots. [_Journal of Vegetation Science_ 35:e13262](https://doi.org/10.1111/jvs.13262)
 1. Sugiyama Y\*, Matsuoka S, Shimono Y, **Ushio M**, Doi H (2024)  
@@ -67,7 +67,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
     
 
 ## 2023
-1. Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (2023)
+1. Fujita H\*, **Ushio M**, Suzuki K, Abe MS, Yamamichi M, Okazaki Y, Canarini A, Hayashi I, Fukushima K, Fukuda S, Kiers ET, Toju H\* (2023)  
     Metagenomic analysis of ecological niche overlap and community collapse in microbiome dynamics. [_Frontiers in Microbiology_ 14:1261137](https://doi.org/10.3389/fmicb.2023.1261137)
 1. Sakata A\*, Sado T, Oka S-I, **Ushio M**, Miya M\* (2023)  
    Collection of environmental DNA from stemflow for monitoring arboreal biodiversity: preliminary validation using lichens. [_MethodsX_ 11:102448](https://doi.org/10.1016/j.mex.2023.102448)
@@ -108,7 +108,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 9.  Maxime M\*, **Ushio M**, Sakai S. (2022)  
     Contrasting microbial communities on male and female flowers of a dioecious plant, _Mallotus japonicus_ (Euphorbiaceae). [_Environmental DNA_ 4 (3):565–579](https://doi.org/10.1002/edn3.271)
 11.  **Ushio M**\* (2022)
-    Interaction capacity as a potential driver of community diversity. [_Proceedings of the Royal Society B_ 289: 20212690](https://doi.org/10.1098/rspb.2021.2690)
+    Interaction capacity as a potential driver of community diversity. [_Proceedings of the Royal Society B_ 289:20212690](https://doi.org/10.1098/rspb.2021.2690)
 
 
 ## 2021
@@ -146,60 +146,60 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 1.  **Ushio M**\*, Osada Y, Kumagai T, Kume T, Pungga RS, Nakashizuka T, Itioka T, Sakai S* (2020)
     Dynamic and synergistic influences of air temperature and rainfall on general flowering in a Bornean lowland tropical forest. [_Ecological Research_ 35 (1):17–29](https://doi.org/10.1111/1440-1703.12057)
 1.  Tsuji S\*, Miya M, **Ushio M**, Sato H, Minamoto T, Yamanaka H (2020)  
-    Evaluating intraspecific genetic diversity using environmental DNA and denoising approach: A case study using tank water. [_Environmental DNA_ 2 (1): 42–52](https://doi.org/10.1002/edn3.44)
+    Evaluating intraspecific genetic diversity using environmental DNA and denoising approach: A case study using tank water. [_Environmental DNA_ 2 (1):42–52](https://doi.org/10.1002/edn3.44)
 
 
 ## 2019
 1.  **Ushio M**\* (2019)  
     Use of a filter cartridge combined with intra-cartridge bead-beating improves detection of microbial DNA from water samples. [_Methods in Ecology and Evolution_ 10 (8):1142–1156](https://doi.org/10.1111/2041-210X.13204)</span>
 1.  Nakagawa M\*, **Ushio M**, Kume T, Nakashizuka T (2019)  
-    Seasonal and long-term patterns in litterfall in a Bornean tropical rainforest. [_Ecological Research_ 34 (1): 31–39](https://doi.org/10.1111/1440-1703.1003)
+    Seasonal and long-term patterns in litterfall in a Bornean tropical rainforest. [_Ecological Research_ 34 (1):31–39](https://doi.org/10.1111/1440-1703.1003)
 
 
 ## 2018
 1.  Toju H\*, Peay KG, Yamamichi M, Narisawa K, Hiruma K, Naito K, Fukuda S, **Ushio M**, Nakaoka S, Onoda Y, Yoshida K, Schlaeppi K, Bai Y, Sugiura R, Ichihashi Y, Minamisawa K, Kiers ET (2018)  
-    Core microbiomes for sustainable agroecosystems. [_Nature Plants_ 4: 247–257](https://dx.doi.org/10.1038/s41477-018-0139-4)
+    Core microbiomes for sustainable agroecosystems. [_Nature Plants_ 4:247–257](https://dx.doi.org/10.1038/s41477-018-0139-4)
 3.  **Ushio M**\*, Murata K, Sado T, Nishiumi I, Takeshita M, Iwasaki W, Miya M\* (2018)  
-    Demonstration of the potential of environmental DNA as a tool for the detection of avian species. [_Scientific Reports_ 8: 4493](https://dx.doi.org/10.1038/s41598-018-22817-5)
+    Demonstration of the potential of environmental DNA as a tool for the detection of avian species. [_Scientific Reports_ 8:4493](https://dx.doi.org/10.1038/s41598-018-22817-5)
 1.  **Ushio M**\*, Murakami H, Masuda R, Sado T, Miya M, Sakurai S, Yamanaka H, Minamoto T, Kondoh M (2018) 
-    Quantitative monitoring of multispecies fish environmental DNA using high-throughput sequencing.  [_Metabarcoding & Metagenomics_ 2: e23297](https://dx.doi.org/10.3897/mbmg.2.23297)
+    Quantitative monitoring of multispecies fish environmental DNA using high-throughput sequencing.  [_Metabarcoding & Metagenomics_ 2:e23297](https://dx.doi.org/10.3897/mbmg.2.23297)
 1.  **Ushio M**\*, Hsieh CH, Masuda R, Deyle RE, Ye H, Chang CW, Sugihara G, Kondoh M\* (2018)  
-    Fluctuating interaction network and time-varying stability of a natural fish community. [_Nature_ 554 (7692): 360–363](https://doi.org/10.1038/nature25504)
+    Fluctuating interaction network and time-varying stability of a natural fish community. [_Nature_ 554 (7692):360–363](https://doi.org/10.1038/nature25504)
 
 
 
 ## 2017
 1.  Aiba S-I\*, Miyamoto K, **Ushio M**, Aoyagi R, Sawada Y (2017)  
-    Mechanism determining conifer dominance in terrestrial ecosystems: A synthesis (in Japanese). [_Japanese Journal of Ecology_ 67 (3): 355–360](https://doi.org/10.18960/seitai.67.3_355)
+    Mechanism determining conifer dominance in terrestrial ecosystems: A synthesis (in Japanese). [_Japanese Journal of Ecology_ 67 (3):355–360](https://doi.org/10.18960/seitai.67.3_355)
 3.  **Ushio M**\* (2017)  
-    Root morphology, mycorrhizal fungi and nitrogen fixation capacity of Podocarpaceae and Araucariaceae (in Japanese). [_Japanese Journal of Ecology_ 67 (3): 339–345](https://doi.org/10.18960/seitai.67.3_339)
+    Root morphology, mycorrhizal fungi and nitrogen fixation capacity of Podocarpaceae and Araucariaceae (in Japanese). [_Japanese Journal of Ecology_ 67 (3):339–345](https://doi.org/10.18960/seitai.67.3_339)
 5.  **Ushio M**\*, Fukuda H, Inoue T, Makoto K, Kishida O, Sato K, Murata K, Nikaido M, Sado T, Sato Y, Takeshita M, Iwasaki W, Yamanaka H, Kondoh M, Miya M\* (2017)  
-    Environmental DNA enables detection of terrestrial mammals from forest pond water. [_Molecular Ecology Resources_ 17 (6): e63–e75](https://dx.doi.org/10.1111/1755-0998.12690) 
+    Environmental DNA enables detection of terrestrial mammals from forest pond water. [_Molecular Ecology Resources_ 17 (6):e63–e75](https://dx.doi.org/10.1111/1755-0998.12690) 
 7.  Chang CW\*, **Ushio M**\*, Hsieh CH\* (2017)  
-    Empirical dynamic modeling for beginners. [_Ecological Research_ 32 (6): 785–796](https://doi.org/10.1007/s11284-017-1469-9)
+    Empirical dynamic modeling for beginners. [_Ecological Research_ 32 (6):785–796](https://doi.org/10.1007/s11284-017-1469-9)
 9.  Ishige T, Miya M, **Ushio M**, Sado T, Ushioda M, Yonechi R, Lagan P, Matsubayashi H\* (2017)  
-    Tropical-forest mammals as detected by environmental DNA at natural saltlicks. [_Biological Conservation_ 210: 281–285](https://doi.org/10.1016/j.biocon.2017.04.023)
+    Tropical-forest mammals as detected by environmental DNA at natural saltlicks. [_Biological Conservation_ 210:281–285](https://doi.org/10.1016/j.biocon.2017.04.023)
 11.  Tsuji S\*, **Ushio M**, Sakurai S, Minamoto T, Yamanaka H (2017)   
     Water temperature-dependent degradation of environmental DNA and its relation to bacterial abundance. [_PLoS ONE_ 12 (4) e0176608](https://doi.org/10.1371/journal.pone.0176608)
 13.  **Ushio M**\*, Aiba S-I, Takeuchi Y, Iida Y, Matsuoka S, Repin R, Kitayama K (2017)  
-    Plant-soil feedbacks and the dominance of conifers in a tropical montane forest in Borneo. [_Ecological Monographs_ 87 (1): 105–129](https://dx.doi.org/10.1002/ecm.1236)
+    Plant-soil feedbacks and the dominance of conifers in a tropical montane forest in Borneo. [_Ecological Monographs_ 87 (1):105–129](https://dx.doi.org/10.1002/ecm.1236)
 14.  Koyama K\*, Yamamoto K, **Ushio M** (2017)  
-    A lognormal distribution of the lengths of terminal twigs on self-similar branches of elm trees. [_Proceedings of the Royal Society B_ 284: 20162395](https://dx.doi.org/10.1098/rspb.2016.2395)
+    A lognormal distribution of the lengths of terminal twigs on self-similar branches of elm trees. [_Proceedings of the Royal Society B_ 284:20162395](https://dx.doi.org/10.1098/rspb.2016.2395)
 
 
 
 ## 2016
 1.  Sakai S\*, Keong CY, Koizumi M, Kishimoto-Yamada K, Takano KT, Ichikawa M, Samejima H, Kato Y, Soda R, **Ushio M**, Saizen I, Nakashizuka T, Itioka T (2016)  
-    Social and ecological factors associated with the use of non-timber forest products by people in rural Borneo. [_Biological Conservation_ 204: 340–349](https://dx.doi.org/10.1016/j.biocon.2016.10.022)
+    Social and ecological factors associated with the use of non-timber forest products by people in rural Borneo. [_Biological Conservation_ 204:340–349](https://dx.doi.org/10.1016/j.biocon.2016.10.022)
 
 
 ## 2015
 1.  Ohba S-Y\*, **Ushio M** (2015)  
-    Effect of water depth on predation frequency by diving beetles on mosquito larvae prey. [_Entomological Science_ 18 (4): 519–522](https://dx.doi.org/10.1111/ens.12143)
+    Effect of water depth on predation frequency by diving beetles on mosquito larvae prey. [_Entomological Science_ 18 (4):519–522](https://dx.doi.org/10.1111/ens.12143)
 2.  **Ushio M**\*, Fujiki Y, Hidaka A, Kitayama K\*  (2015)  
-    Linkage of root physiology and morphology as an adaptation to soil phosphorus impoverishment in tropical montane forests. [_Functional Ecology_ 29 (9): 1235–1245](https://dx.doi.org/10.1111/1365-2435.12424) 
+    Linkage of root physiology and morphology as an adaptation to soil phosphorus impoverishment in tropical montane forests. [_Functional Ecology_ 29 (9):1235–1245](https://dx.doi.org/10.1111/1365-2435.12424) 
 3.  Takasu H, **Ushio M**, LeClair JE, Nakano S-I\* (2015)  
-    High contribution of _Synechococcus_ to phytoplankton biomass in the aphotic hypolimnion in a deep freshwater lake (Lake Biwa, Japan). [_Aquatic Microbial Ecology_ 75 (1): 69–79](https://dx.doi.org/10.3354/ame01749) 
+    High contribution of _Synechococcus_ to phytoplankton biomass in the aphotic hypolimnion in a deep freshwater lake (Lake Biwa, Japan). [_Aquatic Microbial Ecology_ 75 (1):69–79](https://dx.doi.org/10.3354/ame01749) 
 4.  **Ushio M**\*, Yamasaki E, Takasu H, Nagano AJ, Honjo MN, Fujinaga S, Ikemoto M, Sakai S, Kudoh H (2015)  
     Microbial communities on flower surfaces act as signatures of pollinator visitation. [_Scientific Reports_ 5: 8695](https://dx.doi.org/10.1038/srep08695)
 
@@ -207,20 +207,20 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 ## 2014
 1.  Katayama N\*, Silva AO, Kishida O, **Ushio M**, Kita S, Ohgushi T (2014)  
-    Herbivorous insect decreases plant nutrient uptake: the role of soil nutrient availability and association of below-ground symbionts. [_Ecological Entomology_ 39 (4): 511–518]( https://dx.doi.org/10.1111/een.12125)
+    Herbivorous insect decreases plant nutrient uptake: the role of soil nutrient availability and association of below-ground symbionts. [_Ecological Entomology_ 39 (4):511–518]( https://dx.doi.org/10.1111/een.12125)
 2.  **Ushio M**\*, Makoto K, Klaminder J, Takasu H, Nakano S-I (2014)  
-    High-throughput sequencing shows inconsistent results with a microscope-based analysis of the soil prokaryotic community. [_Soil Biology & Biochemistry_ 76: 53–56](https://dx.doi.org/10.1016/j.soilbio.2014.05.010)
+    High-throughput sequencing shows inconsistent results with a microscope-based analysis of the soil prokaryotic community. [_Soil Biology & Biochemistry_ 76:53–56](https://dx.doi.org/10.1016/j.soilbio.2014.05.010)
 
 
 ## 2013
 1.  **Ushio M**\*, Miki T, Balser TC (2013)  
     A coexisting fungal-bacterial community stabilizes soil decomposition activity in a microcosm experiment. [_PLoS ONE_ 8 (11) e80320](https://dx.plos.org/10.1371/journal.pone.0080320) 
 2.  **Ushio M**\*, Makoto K, Klaminder J, Nakano S-I (2013)  
-    CARD-FISH analysis of prokaryotic community composition and abundance along small-scale vegetation gradients in a dry arctic tundra ecosystem. [_Soil Biology & Biochemistry_ 64: 147–154](https://dx.doi.org/10.1016/j.soilbio.2013.05.002)
+    CARD-FISH analysis of prokaryotic community composition and abundance along small-scale vegetation gradients in a dry arctic tundra ecosystem. [_Soil Biology & Biochemistry_ 64:147–154](https://dx.doi.org/10.1016/j.soilbio.2013.05.002)
 3.  Nakazawa T\*, Ohba S-Y, **Ushio M** (2013)  
-    Predator-prey body size relationships when predators can consume prey larger than themselves. [_Biology Letters_ 9 (3) no. 20121193](https://dx.doi.org/10.1098/rsbl.2012.1193)
+    Predator-prey body size relationships when predators can consume prey larger than themselves. [_Biology Letters_ 9 (3):20121193](https://dx.doi.org/10.1098/rsbl.2012.1193)
 4.  **Ushio M**\*, Balser TC, Kitayama K (2013)  
-    Effects of condensed tannins in conifer leaves on the composition and activity of soil microbial community in a tropical montane forest. [_Plant and Soil_ 365 (1–2): 157–170](https://dx.doi.org/10.1007/s11104-012-1365-6)
+    Effects of condensed tannins in conifer leaves on the composition and activity of soil microbial community in a tropical montane forest. [_Plant and Soil_ 365 (1–2):157–170](https://dx.doi.org/10.1007/s11104-012-1365-6)
 
 
 
@@ -228,17 +228,17 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 1.  Koyama K\*, Hidaka Y, **Ushio M** (2012)  
     Dynamic scaling in the growth of a non-branching plant, Cardiocrinum cordatum.  [_PLoS ONE_ 7 (9) e45317](https://dx.plos.org/10.1371/journal.pone.0045317) 
 2.  **Ushio M**, Adams JM\* (2011)
-    A meta-analysis of the global distribution pattern of condensed tannins in tree leaves.  [_The Open Ecology Journal_ 4: 18–23](http://benthamopen.com/ABSTRACT/TOECOLJ-4-18)  
+    A meta-analysis of the global distribution pattern of condensed tannins in tree leaves.  [_The Open Ecology Journal_ 4:18–23](http://benthamopen.com/ABSTRACT/TOECOLJ-4-18)  
 3.  Takeuchi Y, Salcher MM, **Ushio M**, Shimizu-Inatsugi R, Kobayashi MJ, Diway B, von Mering C, Pernthaler J, Shimizu KK\* (2011)  
     _In situ_ enzyme activity in the dissolved and particulate fraction of the fluid from four pitcher plant species of the genus _Nepenthes_. [_PLoS ONE_ 6 (9) e25144](https://dx.doi.org/10.1371/journal.pone.0025144)  
 4.  **Ushio M**\*, Kitayama K, Balser TC (2010)  
-    Tree species-mediated spatial patchiness of the composition of microbial community and physicochemical properties in the topsoils of a tropical montane forest. [_Soil Biology & Biochemistry_ 42 (9): 1588–1595](https://dx.doi.org/10.1016/j.soilbio.2010.05.035)  
+    Tree species-mediated spatial patchiness of the composition of microbial community and physicochemical properties in the topsoils of a tropical montane forest. [_Soil Biology & Biochemistry_ 42 (9):1588–1595](https://dx.doi.org/10.1016/j.soilbio.2010.05.035)  
 5.  Miki T\*, **Ushio M**, Fukui S, Kondoh M (2010)  
-    Functional diversity of microbial decomposers facilitates plant coexistence in a plant-microbe-soil feedback model. [_PNAS_ 107 (32): 14251–14256](https://dx.doi.org/10.1073/pnas.0914281107)
+    Functional diversity of microbial decomposers facilitates plant coexistence in a plant-microbe-soil feedback model. [_PNAS_ 107 (32):14251–14256](https://dx.doi.org/10.1073/pnas.0914281107)
 6.  **Ushio M**\*, Kitayama K, Balser TC (2010)
-    Tree species effects on soil enzyme activities through effects on soil physicochemical and microbial properties in a tropical montane forest on Mt. Kinabalu, Borneo. [_Pedobiologia_ 53 (4): 227–233](https://dx.doi.org/10.1016/j.pedobi.2009.12.003)
+    Tree species effects on soil enzyme activities through effects on soil physicochemical and microbial properties in a tropical montane forest on Mt. Kinabalu, Borneo. [_Pedobiologia_ 53 (4):227–233](https://dx.doi.org/10.1016/j.pedobi.2009.12.003)
 7.  **Ushio M**\*, Miki T, Kitayama K (2009)
-    Phenolic control of plant nitrogen acquisition through the inhibition of soil microbial decomposition processes: A plant-microbe competition model. [_Microbes and Environments_ 24 (2): 180–187](https://www.jstage.jst.go.jp/article/jsme2/24/2/24_ME09107/_article)
+    Phenolic control of plant nitrogen acquisition through the inhibition of soil microbial decomposition processes: A plant-microbe competition model. [_Microbes and Environments_ 24 (2):180–187](https://www.jstage.jst.go.jp/article/jsme2/24/2/24_ME09107/_article)
 8.  **Ushio M**\*, Wagai R, Balser TC, Kitayama K (2008)
-    Variations in the soil microbial community composition of a tropical montane forest ecosystem: Does tree species matter? [_Soil Biology & Biochemistry_ 40 (10): 2699–2702](https://dx.doi.org/10.1016/j.soilbio.2008.06.023)
+    Variations in the soil microbial community composition of a tropical montane forest ecosystem: Does tree species matter? [_Soil Biology & Biochemistry_ 40 (10):2699–2702](https://dx.doi.org/10.1016/j.soilbio.2008.06.023)
 
