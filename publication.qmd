@@ -44,7 +44,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 ## 2025
 1. **Ushio M**\*, Nakajima K (2025)  
-    Reservoir computing: theory and its potential applications in ecology. (in Japanese) [_Japanese Journal of Ecology_ 74:229-238](https://doi.org/10.1016/j.marpolbul.2025.117990)
+    Reservoir computing: theory and its potential applications in ecology. (in Japanese) [_Japanese Journal of Ecology_ 74:229-238](https://doi.org/10.18960/seitai.74.2_229)
 1. Lee SS, Lee HS, Xu Z, **Ushio M**, Zhang X, Liu H\* (2025)  
     Community stability of free-living and particle-attached bacteria in coastal waters across four seasons: insights from 9.5 years of weekly sampling. [_Marine Pollution Bulletin_ 216:117990](https://doi.org/10.1016/j.marpolbul.2025.117990)
 1. Miki T\*, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (2025)  
