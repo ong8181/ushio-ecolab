@@ -3,6 +3,11 @@ title: "Research"
 ---
 
 ## Ongoing projects
+#### Reconstruction of historical dynamics of coastal ecological communities in Hong Kong waters using sedimentary environmental DNA
+- Leading (PI)
+- [RGC - General Research Fund](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html)
+- HKD 1,208,140 (from 1 Sep 2025 - 31 Aug 2028)
+
 #### Establishment of an environmental DNA-based cetacean monitoring framework in Hong Kong waters
 - Leading (PI)
 - [RGC - General Research Fund](https://www.ugc.edu.hk/eng/rgc/funding_opport/grf/index.html)
