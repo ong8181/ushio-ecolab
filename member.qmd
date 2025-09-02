@@ -9,38 +9,31 @@ title: "Members"
 <img src="img/img_oa2025.webp" align="left" style="height:250px">
 <br clear="left">
 
-- Bachelor (2023, Hong Kong University of Science and Technology, Hong Kong)
+- Bachelor (2023, HKUST, Hong Kong)
 - **Research interest**: Environmental DNA, ecology, conservation
 - **Research project**: Use of sedimentary eDNA to reconstruct past marine communities in Hong Kong
 <br>
 <br>
 
 
-#### Suixuan HUANG <font size=3 color="gray">(MPhil, Sep 2023~)</font>
+#### Suixuan HUANG <font size=3 color="gray">(PhD, Sep 2025~)</font>
 <img src="img/img_sx2024.webp" align="left" style="height:250px">
 <br clear="left">
 
+- MPhil (2025, HKUST, Hong Kong)  
 - Bachelor (2023, Sun Yat-sen University, China)  
 - **Research interest**: Red tide monitoring, Satellite data analysis, Time series analysis
 - **Research project**: Forecasting harmful algal bloom events
 <br>
 <br>
 
-#### Robinson KISERO <font size=3 color="gray">(MPhil, Sep 2023~)</font>
-<img src="img/img_rk2023.webp" align="left" style="height:200px">
-<br clear="left">
-
-- Master (2023, The University of Nairobi, Kenya)
-- **Research interests**: As a marine biologist, I am extremely committed to learning about and protecting the different ecosystems that exist in our seas and oceans. I have been fascinated by the potential of environmental DNA (eDNA) as a strong tool for understanding marine ecosystems. I am certain that incorporating eDNA analysis into marine ecology studies can yield useful insights on marine creature biodiversity, population dynamics, and conservation. Hong Kong University of Science and Technology (HKUST) is second to none in enhancing my potential and projecting me to a record high level of marine life conservation.
-<br>
-<br>
 
 #### Xiaoqi LIN <font size=3 color="gray">(PhD, Sep 2024~)</font>
 <img src="img/img_xq2024.webp" align="left" style="height:250px">  
 <br clear="left">
 
+- MPhil (2024, Shantou University, China)  
 - Bachelor (2021, Ocean University of China, China)  
-- Master (2024, Shantou University, China)  
 - **Research interest**: Environmental DNA  
 - **Research project**: Cetacean eDNA monitoring project  
 <br>
@@ -53,18 +46,6 @@ title: "Members"
 - Bachelor (2024, Zhejiang University, China)  
 - **Research interest**: Environmental DNA  
 - **Research project**: Cetacean DNA methylation project
-<br>
-<br>
-
-#### Takamitsu OHIGASHI <font size=3 color="gray">(JSPS Postdoc, June 2024~)</font>
-<img src="img/img_tk2024.webp" align="left" style="height:250px">
-<br clear="left">
-
-- PhD (2024, Hokkaido University, Japan)
-- **Contact**: ocesohigashi (at) ust.hk
-- **Research interest**: Microbial ecology, Material cycling, Species-environment interaction
-- **Research project**: Ecosystem monitoring using eDNA, Time series data analysis of fish communities
-- [Personal website](https://taka-ohi.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.co.jp/citations?user=uC7K8TsAAAAJ&hl=en){target="_blank"}
 <br>
 <br>
 
@@ -89,10 +70,8 @@ title: "Members"
 - **Contact**: ushio (at) ust.hk
 - **Research interests**: Ecosystem dynamics, Environmental DNA, Microbial community, Statistical analysis, Machine learning
 - **Teaching**:
-  - 2023/24 Fall: OCES3601 (Ecology), OCES1001 (omnibus)
-  - 2023/24 Spring: OCES4103 (Fisheries and Aquaculture), DASC3240 (Data Visualization in Science), OCES1001 (ominibus), SCIE1500 (ominibus)
-  - 2024/25 Fall: OCES3601 (Ecology)
-  - 2024/25 Spring: OCES4103 (Fisheries and Aquaculture), DASC3240 (Data Visualization in Science)
+  - 2023/24-2024/25: OCES3601 (Ecology), OCES1001 (omnibus), OCES4103 (Fisheries and Aquaculture), DASC3240 (Data Visualization in Science), SCIE1500 (omnibus)
+  - 2025/26: OCES1001 (The Earth as a Blue Planet), DASC3240 (Data Visualization in Science), OCES6770
 - [Personal website](https://ong8181.github.io/){target="_blank"}, [Google Scholar Profile](https://scholar.google.com/citations?user=GtIzgfYAAAAJ&hl=en){target="_blank"}, [Github](https://github.com/ong8181){target="_blank"}
 <br>
 <br>
@@ -123,9 +102,9 @@ title: "Members"
 <br>
 
 <!--
-### Final Year Project students
-- Wingki
-
-### Past members
-- Marin KOMOJIRI (2022.4-8, Research Assistant)
+### Alumni
+- Marin KOMOJIRI (2022.04-08, Research Assistant)
+- Wing Ki NG (2024.09-2025.05, FYP student)
+- Takamitsu OHIGASHI (2024.06-2025.06, JSPS Postdoc)
+- Robinson Okoth KISERO (2023.09-2025.08, MPhil)
 -->
