@@ -36,8 +36,6 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 - **Ushio M**\*, Saito H, Shimono Y, Okada K, Ozawa R, Shiojiri K,  Takabayashi J (2025) Contrasting ecological communities in rice paddy fields under conventional and no-fertilizer farming practices. [_bioRxiv_](https://doi.org/10.1101/2025.08.12.669982)  
 
-- **Ushio M**\*, Ozawa S, Oka S-I, Sado T, **Kisero RO**, Porter L, Matrai E, Miya M (2025) $\mu$Ceta: a set of cetacean-specific primers for environmental DNA metabarcoding with minimal amplification of non-target vertebrates. [_bioRxiv_](https://doi.org/10.1101/2025.03.19.644246)  
-
 - Gao et al. (2024) Diversity and distinctive traits of the global RNA virome in urban environments. [Available at SSRN](https://dx.doi.org/10.2139/ssrn.4871972)
 
 - Osada Y\*, **Ushio M**, Kondoh M (2023) A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
@@ -45,6 +43,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
+1. **Ushio M**\*, Ozawa S, Oka S-I, Sado T, **Kisero RO**, Porter L, Matrai E, Miya M (in press)  
+$\mu$Ceta: a set of cetacean-specific primers for environmental DNA metabarcoding with minimal amplification of non-target vertebrates. _Environmental DNA_  
+
 
 ## 2025
 1. **Ushio M**\*, Nakajima K (2025)  
