@@ -54,6 +54,8 @@ $\mu$Ceta: a set of cetacean-specific primers for environmental DNA metabarcodin
     Community stability of free-living and particle-attached bacteria in coastal waters across four seasons: insights from 9.5 years of weekly sampling. [_Marine Pollution Bulletin_ 216:117990](https://doi.org/10.1016/j.marpolbul.2025.117990)
 1. Miki T\*, Chang CW, Ke PJ, Telschow A, Tsai CH, **Ushio M**, Hsieh CH (2025)  
     How to quantify interaction strengths? A critical rethinking of the interaction Jacobian and evaluation methods for non-parametric inference in time series analysis. [_Physica D: Nonlinear Phenomena_ 134613](https://doi.org/10.1016/j.physd.2025.134613)
+1. Jiang L*, **Ushio M**, Imai N, Sugau J, Kitayama K (2025)  
+    Changes of bacterial versus fungal community composition along a forest degradation gradient of logged-over tropical rain forests, and their consequences on soil enzyme activities in Malaysian Borneo. [_Plant and Soil_ 510:541-563](https://doi.org/10.1007/s11104-024-06939-6)
 1.  Fukasawa Y\*, Kimura S, Kominami Y, Takagi M, Matsukura K, Makoto K, Suzuki SN, Takemoto S, Tanaka N, Jomura M, Kadowaki K, **Ushio M**, Kinuura H, Yamashita S (2025)  
     Oak wilt disease may reduce the initial decay rate of dead Quercus serrata stems by altering fungal communities in the wood. [_Environmental Microbiology_ 27:e70026](https://doi.org/10.1111/1462-2920.70026)
 
@@ -61,8 +63,6 @@ $\mu$Ceta: a set of cetacean-specific primers for environmental DNA metabarcodin
 ## 2024
 1.  Oka S-I\*, Sado T, **Ushio M**, Miya M\* (2024)  
     Assessing the impact of tidal changes on fish environmental DNA metabarcoding in temperate and tropical coastal regions of Japan. [_Metabarcoding & Metagenomics_ 8:e135461](https://doi.org/10.3897/mbmg.8.135461)
-1. Jiang L*, **Ushio M**, Imai N, Sugau J, Kitayama K (2024)  
-    Changes of bacterial versus fungal community composition along a forest degradation gradient of logged-over tropical rain forests, and their consequences on soil enzyme activities in Malaysian Borneo. [_Plant and Soil_ 510:541-563](https://doi.org/10.1007/s11104-024-06939-6)
 1. Atsumi K, Nishida Y, **Ushio M**, Nishi H, Genroku T, Fujiki S* (2024)  
     Boosting biodiversity monitoring using smartphone-driven, rapidly accumulating citizen data. [_eLife_ 13:RP93694](https://doi.org/10.7554/eLife.93694)
 1. Maehara K, Iwachido Y, Katsuhara H, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T\* (2024)  
