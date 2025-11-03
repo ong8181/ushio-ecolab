@@ -32,6 +32,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 <font color="gray">
 
+- **Kisero RO**, Tsuji S, **Ohigashi T**, Porter L, Matrai E, **Ushio M**\* (2025) Detection of environmental DNA of the Indo-Pacific humpback dolphins in Hong Kong waters using quantitative PCR. [_bioRxiv_](https://doi.org/10.1101/2025.10.30.685690)
+
 -  Jiang Q, **Ushio M**, Kagami M, Tanaka A, Ysui-Tamura S, Hashihama F, Umezawa Y, Tachibana A, Katano T\* (2025) A four-year DNA metabarcoding revealed the ecological importance of phototrophic nanoflagellates in highly eutrophic Tokyo Bay, Japan. [Available at SSRN](https://dx.doi.org/10.2139/ssrn.5554486)  
 
 - **Liu C**\*, Xia F, Hirayama IT, Yagi G, **Ushio M**\* (2025) Epi-eDNA: From methylation signal detection to functional ecological monitoring. [_EcoEvoRxiv_](https://doi.org/10.32942/X2R340)  
