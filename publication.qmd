@@ -32,6 +32,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 <font color="gray">
 
+-  Bhargava P\*, Chen S, Lee J, Yoshinari Y, Nishimura T, **Ushio M**, Sugiura Y, Cheng KF, Fung YS, Hase K, Nakamura H, Enomoto M, Kim J, Johnson HE, Liao Y, Hirano Y\* (2025) Microbiome-host interactions drive a trade-off between sleep quality and lifespan in _Drosophila_. [_bioRxiv_](https://doi.org/10.64898/2025.12.24.696379)
+
 - **Lin X**\*, **Ushio M**\* (2025) Detecting the Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) in Hong Kong waters using environmental DNA. [_bioRxiv_](https://doi.org/10.64898/2025.12.21.695310)
 
 - **Kisero RO**, Tsuji S, **Ohigashi T**, Porter L, Matrai E, **Ushio M**\* (2025) Detection of environmental DNA of the Indo-Pacific humpback dolphins in Hong Kong waters using quantitative PCR. [_bioRxiv_](https://doi.org/10.1101/2025.10.30.685690)
