@@ -6,7 +6,10 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 
 # <font color="darkblue">Representative papers</font>
+- **Ushio M**\*, Ozawa S, Oka S-I, Sado T, **Kisero RO**, Porter L, Matrai E, Miya M (2025) $\mu$Ceta: a set of cetacean-specific primers for environmental DNA metabarcoding with minimal amplification of non-target vertebrates. [_Environmental DNA_ 7:e70193](https://doi.org/10.1002/edn3.70193)  
+<!--
 - **Ushio M**\*, Saito H, Tojo M, Nagano AJ (2023) An ecological network approach for detecting and validating influential organisms for rice growth. [_eLife_ 12:RP87202](https://doi.org/10.7554/eLife.87202)
+-->
 - **Ushio M**\*, Sado T, Fukuchi T, Sasano S, Masuda R, Osada Y, Miya M\* (2023) Temperature sensitivity of the interspecific interaction strength of coastal marine fish communities. [_eLife_ 12:RP85795](https://doi.org/10.7554/eLife.85795) 
 -  **Ushio M**\*, Watanabe K, Fukuda Y, Tokudome Y, Nakajima K* (2023) Computational capability of ecological dynamics. [_Royal Society Open Science_ 10:221614](https://doi.org/10.1098/rsos.221614)
 -  **Ushio M**\* (2022) Interaction capacity as a potential driver of community diversity. [_Proceedings of the Royal Society B_ 289: 20212690](https://doi.org/10.1098/rspb.2021.2690)
@@ -31,6 +34,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 ----------
 
 <font color="gray">
+
+- **Huang S**\*, **Ushio M**\* (2026) Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. [_bioRxiv_](https://doi.org/10.64898/2026.01.07.698127)
 
 -  Bhargava P\*, Chen S, Lee J, Yoshinari Y, Nishimura T, **Ushio M**, Sugiura Y, Cheng KF, Fung YS, Hase K, Nakamura H, Enomoto M, Kim J, Johnson HE, Liao Y, Hirano Y\* (2025) Microbiome-host interactions drive a trade-off between sleep quality and lifespan in _Drosophila_. [_bioRxiv_](https://doi.org/10.64898/2025.12.24.696379)
 
