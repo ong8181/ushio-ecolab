@@ -57,11 +57,11 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 - Xu W, Pei Y-D, **Li T**, Bennett-Williams J, Sun R, Leung S, **Ushio M**, Wyatt A, Yung CCM\* (in press)  
 Environmental filtering weakens with trophic level in urban coastal ecosystems. _Environmental Science & Technology_
 
-- Iwachido Y\*, Katsuhara H, Maehara K, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T (in press)  
-Urbanization and spatial aggregation impair multifunctionality in urban vacant lots. _Ecology and Evolution_  
-
 
 ## 2026
+1. Iwachido Y\*, Katsuhara H, Maehara K, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T (2026)  
+Urbanization and spatial aggregation impair multifunctionality in urban vacant lots. [_Ecology and Evolution_ 16:e72995](https://doi.org/10.1002/ece3.72995)  
+
 1. **Ushio M**\*, Saito H, Shimono Y, Okada K, Ozawa R, Shiojiri K, Takabayashi J (2026)  
 Contrasting ecological communities in rice paddy fields under conventional and no-fertilizer farming practices. [_Agriculture, Ecosystems & Environment_ 397:110066](https://doi.org/10.1016/j.agee.2025.110066)  
 
