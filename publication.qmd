@@ -54,11 +54,12 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-- Xu W, Pei Y-D, **Li T**, Bennett-Williams J, Sun R, Leung S, **Ushio M**, Wyatt A, Yung CCM\* (in press)  
-Environmental filtering weakens with trophic level in urban coastal ecosystems. _Environmental Science & Technology_
-
+Coming soon!
 
 ## 2026
+1. Xu W, Pei Y-D, **Li TMW**, Bennett-Williams J, Sun R, Leung S, **Ushio M**, Wyatt A, Yung CCM\* (2026)  
+Environmental filtering weakens with trophic level in urban coastal ecosystems. [_Environmental Science & Technology_ 60:4042-4057](https://doi.org/10.1021/acs.est.5c08142)
+
 1. Iwachido Y\*, Katsuhara H, Maehara K, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T (2026)  
 Urbanization and spatial aggregation impair multifunctionality in urban vacant lots. [_Ecology and Evolution_ 16:e72995](https://doi.org/10.1002/ece3.72995)  
 
