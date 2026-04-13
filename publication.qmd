@@ -58,8 +58,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 Coming soon!
 -->
 
-1. Toju H\*, Suzuki K, Sánchez-Pinillos M, Shima G, Kageyama T, Hayashi I, Noguchi M, Fujita H, Goto Y, Nakaoka S, **Ushio M**, Ichihashi Y, Fricke WF, Mizumoto K, Takayasu L, Suda W, Takayasu M, Yamamichi M, Weckwerth W (accepted)  
-Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and management. _The ISME Journal_
+1. Toju H\*, Suzuki K, Sánchez-Pinillos M, Shima G, Kageyama T, Hayashi I, Noguchi M, Fujita H, Goto Y, Nakaoka S, **Ushio M**, Ichihashi Y, Fricke WF, Mizumoto K, Takayasu L, Suda W, Takayasu M, Yamamichi M, Weckwerth W (in press)  
+Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and management. [_The ISME Journal_](https://doi.org/10.1093/ismejo/wrag085)
 
 <!--
 1. Gao Z, Jun Wu\*, ..., **Ushio M**, ..., Wang LF\*, Mason CE\*, Shi T\* (accepted)  
