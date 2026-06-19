@@ -47,8 +47,6 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 -  Jiang Q, **Ushio M**, Kagami M, Tanaka A, Ysui-Tamura S, Hashihama F, Umezawa Y, Tachibana A, Katano T\* (2025) A four-year DNA metabarcoding revealed the ecological importance of phototrophic nanoflagellates in highly eutrophic Tokyo Bay, Japan. [Available at SSRN](https://dx.doi.org/10.2139/ssrn.5554486)  
 
-- **Liu C**\*, Xia F, Hirayama IT, Yagi G, **Ushio M**\* (2025) Epi-eDNA: From methylation signal detection to functional ecological monitoring. [_EcoEvoRxiv_](https://doi.org/10.32942/X2R340)  
-
 - Osada Y\*, **Ushio M**, Kondoh M (2023) A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
 
 </font>
@@ -57,6 +55,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 <!--
 Coming soon!
 -->
+1. **Liu C**\*, Xia F, Hirayama IT, Yagi G, **Ushio M**\* (accepted)  
+The potential of methylation signal detection in eDNA toward functional ecological monitoring. _Communications Biology_
+
 1. Gao Z, Jun Wu\*, ..., **Ushio M**, ..., Wang LF\*, Mason CE\*, Shi T\* (accepted)  
 Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. _Nature Communications_
 
