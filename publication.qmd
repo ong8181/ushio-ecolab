@@ -55,9 +55,6 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 <!--
 Coming soon!
 -->
-1. **Liu C**\*, Xia F, Hirayama IT, Yagi G, **Ushio M**\* (accepted)  
-The potential of methylation signal detection in eDNA toward functional ecological monitoring. _Communications Biology_
-
 1. Gao Z, Jun Wu\*, ..., **Ushio M**, ..., Wang LF\*, Mason CE\*, Shi T\* (accepted)  
 Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. _Nature Communications_
 
@@ -70,6 +67,9 @@ Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and 
 -->
 
 ## 2026
+1. **Liu C**\*, Xia F, Hirayama IT, Yagi G, **Ushio M**\* (2026)  
+The potential of methylation signal detection in eDNA toward functional ecological monitoring. [_Communications Biology_ 9:848](https://doi.org/10.1038/s42003-026-10496-2)
+
 1. Toju H\*, Suzuki K, Sánchez-Pinillos M, Shima G, Kageyama T, Hayashi I, Noguchi M, Fujita H, Goto Y, Nakaoka S, **Ushio M**, Ichihashi Y, Fricke WF, Mizumoto K, Takayasu L, Suda W, Takayasu M, Yamamichi M, Weckwerth W (2026)  
 Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and management. [_The ISME Journal_ 20:wrag085](https://doi.org/10.1093/ismejo/wrag085)
 
