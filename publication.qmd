@@ -53,11 +53,11 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 <!--
 Coming soon!
 -->
-1. **Lin X**\*, **Ushio M**\* (accepted)  
-Detecting the Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) in Hong Kong waters using environmental DNA. _Marine Environmental Research_
-
 1. Gao Z, Jun Wu\*, ..., **Ushio M**, ..., Wang LF\*, Mason CE\*, Shi T\* (accepted)  
 Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. _Nature Communications_
+
+1. **Lin X**\*, **Ushio M**\* (2026)  
+Detecting the Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) in Hong Kong waters using environmental DNA. [_Marine Environmental Research_ (Early View)](https://doi.org/10.1016/j.marenvres.2026.108248)
 
 1. Suzuki K\*, Yamamichi M, Osada Y, **Ushio M**, Nakajima K, Masuya H, Shimizu H (2026)  
 Advances in causal discovery methods for ecological time series. [_Biological Reviews_ (Early View)](https://doi.org/10.1002/brv.70180)
