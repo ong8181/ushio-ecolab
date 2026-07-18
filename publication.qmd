@@ -37,8 +37,6 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 
 -  **Ohigashi T**\*, Masuda R, **Ushio M**\* (2026) Population-level, state-dependent response as a trait predicting species redistribution under climate change. [_bioRxiv_](https://doi.org/10.64898/2026.02.16.706069)
 
-- **Huang S**\*, **Ushio M**\* (2026) Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. [_bioRxiv_](https://doi.org/10.64898/2026.01.07.698127)
-
 -  Bhargava P\*, Chen S, Lee J, Yoshinari Y, Nishimura T, **Ushio M**, Sugiura Y, Cheng KF, Fung YS, Hase K, Nakamura H, Enomoto M, Kim J, Johnson HE, Liao Y, Hirano Y\* (2025) Microbiome-host interactions drive a trade-off between sleep quality and lifespan in _Drosophila_. [_bioRxiv_](https://doi.org/10.64898/2025.12.24.696379)
 
 - **Kisero RO**, Tsuji S, **Ohigashi T**, Porter L, Matrai E, **Ushio M**\* (2025) Detection of environmental DNA of the Indo-Pacific humpback dolphins in Hong Kong waters using quantitative PCR. [_bioRxiv_](https://doi.org/10.1101/2025.10.30.685690)
@@ -53,8 +51,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 <!--
 Coming soon!
 -->
-1. Gao Z, Jun Wu\*, ..., **Ushio M**, ..., Wang LF\*, Mason CE\*, Shi T\* (accepted)  
-Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. _Nature Communications_
+
+1. **Huang S**\*, **Ushio M**\* (accepted) Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. _Marine Pollution Bulletin_
 
 1. **Lin X**\*, **Ushio M**\* (2026)  
 Detecting Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) around the Soko Islands, Hong Kong, using environmental DNA. [_Marine Environmental Research_ (Early View)](https://doi.org/10.1016/j.marenvres.2026.108248)
@@ -62,17 +60,19 @@ Detecting Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) around the
 1. Suzuki K\*, Yamamichi M, Osada Y, **Ushio M**, Nakajima K, Masuya H, Shimizu H (2026)  
 Advances in causal discovery methods for ecological time series. [_Biological Reviews_ (Early View)](https://doi.org/10.1002/brv.70180)
 
-<!--
-1. Gao Z, Jun Wu\*, Lucaci AG, Ouyang J, Wang L, Ryon KA, Elhaik E, Probst AJ, Rodó X, Velavan TP, Chasapi A, Ouzounis CA, Oliveira M, Dias-Neto E, Osuolale O, Poulsen M, Meleshko D, Bhattacharyya M, Ugalde JA, Tull A, Rubins K, Sierra MA, Tierney BT, Prithiviraj B, Sharma NK, Munteanu V, Mangul S, Kurt KC, **Ushio M**, Mazur-Panasiuk N, Kopera K, Marszałek K, Kowalski M, Toscan RB, Branicki W, Pyrć K, Łabaj RP, Subramanian B, Frolowa A, Burkhart JG, Deng Y, Udekwu KI, Schriml LM, Hazrin-Chong NH, Suzuki H, Lee PKH, Camargo AP, Kyrpides NC, Liu D, Wang LF\*, Mason CE\*, Shi T\* (accepted)  
-Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. _Nature Communications_
--->
 
 ## 2026
+1. Gao Z, Jun Wu\*, ..., **Ushio M**, ..., Wang LF\*, Mason CE\*, Shi T\* (2026)
+Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. [_Nature Communications_ 17:6397](https://doi.org/10.1038/s41467-026-73605-z)  
+
 1. **Liu C**\*, Xia F, Hirayama IT, Yagi G, **Ushio M**\* (2026)  
 The potential of methylation signal detection in eDNA toward functional ecological monitoring. [_Communications Biology_ 9:848](https://doi.org/10.1038/s42003-026-10496-2)
 
 1. Toju H\*, Suzuki K, Sánchez-Pinillos M, Shima G, Kageyama T, Hayashi I, Noguchi M, Fujita H, Goto Y, Nakaoka S, **Ushio M**, Ichihashi Y, Fricke WF, Mizumoto K, Takayasu L, Suda W, Takayasu M, Yamamichi M, Weckwerth W (2026)  
-Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and management. [_The ISME Journal_ 20:wrag085](https://doi.org/10.1093/ismejo/wrag085)
+Microbiome assembly statistics toward ecosystem-scale insights, forecasting, and management. [_The ISME Journal_ 20:wrag085](https://doi.org/10.1093/ismejo/wrag085)  
+
+1. **Ushio M**\*, Saito H, Shimono Y, Okada K, Ozawa R, Shiojiri K, Takabayashi J (2026)  
+Contrasting ecological communities in rice paddy fields under conventional and no-fertilizer farming practices. [_Agriculture, Ecosystems & Environment_ 397:110066](https://doi.org/10.1016/j.agee.2025.110066)  
 
 1. Xu W, Pei Y-D, **Li TMW**, Bennett-Williams J, Sun R, Leung S, **Ushio M**, Wyatt A\*, Yung CCM\* (2026)  
 Environmental filtering weakens with trophic level in urban coastal ecosystems. [_Environmental Science & Technology_ 60:4042-4057](https://doi.org/10.1021/acs.est.5c08142)
@@ -80,8 +80,10 @@ Environmental filtering weakens with trophic level in urban coastal ecosystems. 
 1. Iwachido Y\*, Katsuhara H, Maehara K, Tomitaka M, Seto K, **Ushio M**, Kagami M, Sasaki T (2026)  
 Urbanization and spatial aggregation impair multifunctionality in urban vacant lots. [_Ecology and Evolution_ 16:e72995](https://doi.org/10.1002/ece3.72995)  
 
-1. **Ushio M**\*, Saito H, Shimono Y, Okada K, Ozawa R, Shiojiri K, Takabayashi J (2026)  
-Contrasting ecological communities in rice paddy fields under conventional and no-fertilizer farming practices. [_Agriculture, Ecosystems & Environment_ 397:110066](https://doi.org/10.1016/j.agee.2025.110066)  
+<!--
+1. Gao Z, Jun Wu\*, Lucaci AG, Ouyang J, Wang L, Ryon KA, Elhaik E, Probst AJ, Rodó X, Velavan TP, Chasapi A, Ouzounis CA, Oliveira M, Dias-Neto E, Osuolale O, Poulsen M, Meleshko D, Bhattacharyya M, Ugalde JA, Tull A, Rubins K, Sierra MA, Tierney BT, Prithiviraj B, Sharma NK, Munteanu V, Mangul S, Kurt KC, **Ushio M**, Mazur-Panasiuk N, Kopera K, Marszałek K, Kowalski M, Toscan RB, Branicki W, Pyrć K, Łabaj RP, Subramanian B, Frolowa A, Burkhart JG, Deng Y, Udekwu KI, Schriml LM, Hazrin-Chong NH, Suzuki H, Lee PKH, Camargo AP, Kyrpides NC, Liu D, Wang LF\*, Mason CE\*, Shi T\* (accepted)  
+Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. _Nature Communications_
+-->
 
 
 ## 2025
