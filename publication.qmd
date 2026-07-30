@@ -52,18 +52,18 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 Coming soon!
 -->
 
-1. **Huang S**\*, **Ushio M**\* (accepted) Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. _Marine Pollution Bulletin_
-
-1. **Lin X**\*, **Ushio M**\* (2026)  
-Detecting Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) around the Soko Islands, Hong Kong, using environmental DNA. [_Marine Environmental Research_ (Early View)](https://doi.org/10.1016/j.marenvres.2026.108248)
-
 1. Suzuki K\*, Yamamichi M, Osada Y, **Ushio M**, Nakajima K, Masuya H, Shimizu H (2026)  
 Advances in causal discovery methods for ecological time series. [_Biological Reviews_ (Early View)](https://doi.org/10.1002/brv.70180)
 
 
 ## 2026
+1. **Huang S**\*, **Ushio M**\* (2026) Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. [_Marine Pollution Bulletin_ 233:120163](https://doi.org/10.1016/j.marpolbul.2026.120163)  
+
+1. **Lin X**\*, **Ushio M**\* (2026)  
+Detecting Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) around the Soko Islands, Hong Kong, using environmental DNA. [_Marine Environmental Research_ 221:108248](https://doi.org/10.1016/j.marenvres.2026.108248)  
+
 1. Gao Z, Jun Wu\*, ..., **Ushio M**, ..., Wang LF\*, Mason CE\*, Shi T\* (2026)
-Diversity and Distinctive Characteristics of the Global RNA Virome in Urban and Peri-urban Environments. [_Nature Communications_ 17:6397](https://doi.org/10.1038/s41467-026-73605-z)  
+Diversity and distinctive characteristics of the global RNA virome in urban and peri-urban environments. [_Nature Communications_ 17:6397](https://doi.org/10.1038/s41467-026-73605-z)  
 
 1. **Liu C**\*, Xia F, Hirayama IT, Yagi G, **Ushio M**\* (2026)  
 The potential of methylation signal detection in eDNA toward functional ecological monitoring. [_Communications Biology_ 9:848](https://doi.org/10.1038/s42003-026-10496-2)
