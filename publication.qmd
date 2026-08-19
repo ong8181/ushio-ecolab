@@ -126,7 +126,7 @@ Different structuring factors and distribution patterns of marine prokaryotic an
    Collection of environmental DNA from stemflow for monitoring arboreal biodiversity: preliminary validation using lichens. [_MethodsX_ 11:102448](https://doi.org/10.1016/j.mex.2023.102448)
    
 1.  Maxime M\*, **Ushio M**, Sakai S. (2023)  
-    The effects of the floral infection by a bacterial pathogen in a dioecious plant, _Mallotus japonicus_ (Euphorbiaceae). [_Population Ecology_  65:232-239](https://doi.org/10.1002/1438-390X.12110
+    The effects of the floral infection by a bacterial pathogen in a dioecious plant, _Mallotus japonicus_ (Euphorbiaceae). [_Population Ecology_  65:232-239](https://doi.org/10.1002/1438-390X.12110)
     
 1. **Ushio M**\*, Saito H, Tojo M, Nagano AJ (2023)  
     An ecological network approach for detecting and validating influential organisms for rice growth. [_eLife_ 12:RP87202](https://doi.org/10.7554/eLife.87202)
