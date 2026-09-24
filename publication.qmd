@@ -21,9 +21,14 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 -  **Ushio M**\*, Hsieh CH, Masuda R, Deyle RE, Ye H, Chang CW, Sugihara G, Kondoh M\* (2018) Fluctuating interaction network and time-varying stability of a natural fish community. [_Nature_ 554 (7692): 360–363](https://doi.org/10.1038/nature25504)
 -  **Ushio M**\*, Fukuda H, Inoue T, Makoto K, Kishida O, Sato K, Murata K, Nikaido M, Sado T, Sato Y, Takeshita M, Iwasaki W, Yamanaka H, Kondoh M, Miya M\* (2017) Environmental DNA enables detection of terrestrial mammals from forest pond water. [_Molecular Ecology Resources_ 17: e63–e75](https://dx.doi.org/10.1111/1755-0998.12690) 
 -  **Ushio M**\*, Aiba S-I, Takeuchi Y, Iida Y, Matsuoka S, Repin R, Kitayama K (2017) Plant-soil feedbacks and the dominance of conifers in a tropical montane forest in Borneo. [_Ecological Monographs_ 87 (1): 105–129](https://dx.doi.org/10.1002/ecm.1236)
-
-
 <br>
+
+# <font color="darkblue">Books</font>
+
+- Wong MH, Chen XW, **Ushio M** eds. (2026)  
+Handbook of Sustainable Management of Biodiversity: Strategies for Thriving Planet [Taylor & Francis](https://www.routledge.com/Handbook-of-Sustainable-Management-of-Biodiversity-Strategies-for-a-Thriving-Planet/Wong-WenChen-Ushio/p/book/9781041075141)  
+<br>
+
 
 # Published / Preprints
 
@@ -48,15 +53,13 @@ See [Google Scholar](https://scholar.google.com/citations?user=GtIzgfYAAAAJ){tar
 </font>
 
 ## In press / early view
-<!--
 Coming soon!
--->
-
-1. Suzuki K\*, Yamamichi M, Osada Y, **Ushio M**, Nakajima K, Masuya H, Shimizu H (2026)  
-Advances in causal discovery methods for ecological time series. [_Biological Reviews_ (Early View)](https://doi.org/10.1002/brv.70180)
 
 
 ## 2026
+1. Suzuki K\*, Yamamichi M, Osada Y, **Ushio M**, Nakajima K, Masuya H, Shimizu H (2026)  
+Advances in causal discovery methods for ecological time series. [_Biological Reviews_ 101:2313-2336](https://doi.org/10.1002/brv.70180)
+
 1. **Huang S**\*, **Ushio M**\* (2026) Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. [_Marine Pollution Bulletin_ 233:120163](https://doi.org/10.1016/j.marpolbul.2026.120163)  
 
 1. **Lin X**\*, **Ushio M**\* (2026)  
