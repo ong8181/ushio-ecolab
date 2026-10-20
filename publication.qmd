@@ -46,14 +46,13 @@ Handbook of Sustainable Management of Biodiversity: Strategies for Thriving Plan
 
 - **Kisero RO**, Tsuji S, **Ohigashi T**, Porter L, Matrai E, **Ushio M**\* (2025) Detection of environmental DNA of the Indo-Pacific humpback dolphins in Hong Kong waters using quantitative PCR. [_bioRxiv_](https://doi.org/10.1101/2025.10.30.685690)
 
--  Jiang Q, **Ushio M**, Kagami M, Tanaka A, Ysui-Tamura S, Hashihama F, Umezawa Y, Tachibana A, Katano T\* (2025) A four-year DNA metabarcoding revealed the ecological importance of phototrophic nanoflagellates in highly eutrophic Tokyo Bay, Japan. [Available at SSRN](https://dx.doi.org/10.2139/ssrn.5554486)  
-
 - Osada Y\*, **Ushio M**, Kondoh M (2023) A unified framework for nonparametric causality detection. [_bioRxiv_](https://doi.org/10.1101/2023.04.20.537743)
 
 </font>
 
 ## In press / early view
-Coming soon!
+<!-- Coming soon! -->
+1. Jiang Q, **Ushio M**, Kagami M, Tanaka A, Ysui-Tamura S, Hashihama F, Umezawa Y, Tachibana A, Katano T\* (acctepted) Exploring phytoplankton community dynamics and their interactions with zooplankton: Insights from a four-year DNA metabarcoding study. _Regional Studies in Marine Science_  
 
 
 ## 2026
