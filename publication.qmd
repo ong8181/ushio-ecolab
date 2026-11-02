@@ -52,14 +52,18 @@ Handbook of Sustainable Management of Biodiversity: Strategies for Thriving Plan
 
 ## In press / early view
 <!-- Coming soon! -->
-1. Jiang Q, **Ushio M**, Kagami M, Tanaka A, Ysui-Tamura S, Hashihama F, Umezawa Y, Tachibana A, Katano T\* (acctepted) Exploring phytoplankton community dynamics and their interactions with zooplankton: Insights from a four-year DNA metabarcoding study. _Regional Studies in Marine Science_  
+Coming soon!  
 
 
 ## 2026
+1. Jiang Q, **Ushio M**, Kagami M, Tanaka A, Ysui-Tamura S, Hashihama F, Umezawa Y, Tachibana A, Katano T\* (2026)  
+Exploring phytoplankton community dynamics and their interactions with zooplankton: Insights from a four-year DNA metabarcoding study. [_Regional Studies in Marine Science_ 103:105577](https://doi.org/10.1016/j.rsma.2026.105577)  
+
 1. Suzuki K\*, Yamamichi M, Osada Y, **Ushio M**, Nakajima K, Masuya H, Shimizu H (2026)  
 Advances in causal discovery methods for ecological time series. [_Biological Reviews_ 101:2313-2336](https://doi.org/10.1002/brv.70180)
 
-1. **Huang S**\*, **Ushio M**\* (2026) Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. [_Marine Pollution Bulletin_ 233:120163](https://doi.org/10.1016/j.marpolbul.2026.120163)  
+1. **Huang S**\*, **Ushio M**\* (2026)  
+Exploring causal factors of coastal chlorophyll-a dynamics and their potential contributions to near future forecasting. [_Marine Pollution Bulletin_ 233:120163](https://doi.org/10.1016/j.marpolbul.2026.120163)  
 
 1. **Lin X**\*, **Ushio M**\* (2026)  
 Detecting Indo-Pacific finless porpoises (_Neophocaena phocaenoides_) around the Soko Islands, Hong Kong, using environmental DNA. [_Marine Environmental Research_ 221:108248](https://doi.org/10.1016/j.marenvres.2026.108248)  
